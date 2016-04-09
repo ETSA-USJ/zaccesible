@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Zaragoza Accesible
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Proyecto de mapeado colaborativo de aspectos relacionados con la 
+  discapacidad   y la movilidad en Zaragoza que surge de la cátedra Bantierra 
+  - Fundación   Adecco de la [Escuela Técnica Superior de   Arquitectura de la 
+  USJ](http://etsa.usj.es)
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: etsa_usj
+github_username:  etsa-usj
+
+# Build settings
+markdown: kramdown
