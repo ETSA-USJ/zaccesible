@@ -20,3 +20,40 @@ github_username:  etsa-usj
 
 # Build settings
 markdown: kramdown
+
+# Prose settings (visit: https://github.com/prose/prose/wiki/Prose-Configuration)
+prose:
+  siteurl: 'http://zaccesible.usj.es'
+  relativeLinks: 'http://zaccesible.usj.es/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Mapas"
+              value: "mapas"
+            - name: "OpenStreetMap"
+              value: "openstreetmap"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
