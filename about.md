@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 Zaragoza Accesible es un proyecto de mapeado colaborativo de 
 aspectos relacionados con la discapacidad y la movilidad en Zaragoza que surge 
 de la cátedra Bantierra - Fundación Adecco de la 
@@ -15,6 +16,7 @@ de la cátedra Bantierra - Fundación Adecco de la
 ## Miembros de la Cátedra 
 
 Curso 2015-16
+
  * Carlos Cámara Menoyo (Coordinador del proyecto)
  * Ana Ruiz Varona 
  * César Canalís Pedrón
