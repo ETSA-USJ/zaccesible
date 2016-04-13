@@ -8,8 +8,7 @@ published: true
 
 
 Zaragoza Accesible es un proyecto de mapeado colaborativo de 
-aspectos relacionados con la discapacidad y la movilidad en Zaragoza que surge 
-de la cátedra Bantierra - Fundación Adecco de la 
+aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado en el marco de la **cátedra Bantierra - Fundación Adecco** de la 
 [Escuela Técnica Superior de Arquitectura](http://etsa.usj.es) de la 
 [Universidad San Jorge](http://usj.es) 
 
