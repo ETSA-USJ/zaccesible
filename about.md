@@ -24,18 +24,18 @@ Curso 2015-16
  Cursos anteriores
  
  * Ángel B. Comeras Serrano
- * Santiago Carroquino
+ * Santiago Carroquino Larraz
  
-## Colaboradores
+## Agradecimientos
 
 Este proyecto no sería posible sin el soporte de [Bantierra](http://www.bantierra.es/) y la [Fundación Addeco](http://www.fundacionadecco.es),  a la participación desinteresada de la comunidad [OpenStreetMap](htpp://openstretmap.org) de Zaragoza y a los miembros de Zaragoza Activa por su soporte en la consolidación de un grupo de trabajo.
 
 * Fundación Adecco
- * Beatriz Gutiérrez
+  * Beatriz Gutiérrez
 * Zaragoza Activa
- * Jose Ramon Insa
- * Mapi Gracia Galán
+  * Jose Ramon Insa
+  * Mapi Gracia Galán
 * Comunidad OpenStreetMap
- * Miguel Sevilla-Callejo
- * Alejandro Suárez
- * Contribuidores anónimos de [OpenStreetMap](htpp://openstretmap.org)
+  * Miguel Sevilla-Callejo
+  * Alejandro Suárez
+  * Contribuidores anónimos de [OpenStreetMap](htpp://openstretmap.org)
