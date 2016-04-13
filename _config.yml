@@ -9,10 +9,10 @@
 title: Zaragoza Accesible
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Proyecto de mapeado colaborativo de aspectos relacionados con la 
-  discapacidad y la movilidad en Zaragoza que surge de la cátedra Bantierra
-  - Fundación Adecco de la Escuela Técnica Superior de Arquitectura de la
-  Universidad San Jorge
+  Proyecto de mapeado colaborativo de
+  aspectos relacionados con la discapacidad y la movilidad desarrollado en el marco de la <b>cátedra Bantierra - Fundación Adecco</b> de la
+  <a href="http://etsa.usj.es">Escuela Técnica Superior de Arquitectura</a> de la
+  <a href="http://usj.es">Universidad San Jorge</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: etsa_usj
