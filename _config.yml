@@ -21,6 +21,20 @@ github_username:  etsa-usj
 # Build settings
 markdown: kramdown
 
+# Custom variables:
+# Multiple authors: https://gist.github.com/ravasthi/1834570
+authors:
+  ccamara:
+    name: Carlos Cámara
+    display_name: Carlos Cámara
+    web: http://carloscamara.es
+    twitter: carlescamara
+    github: ccamara
+  CesarCanalis:
+    name: César Canalís
+    display_name: César Canalís
+    github: CesarCanalis
+
 # Prose settings (visit: https://github.com/prose/prose/wiki/Prose-Configuration)
 prose:
   siteurl: 'http://zaccesible.usj.es'
@@ -57,6 +71,10 @@ prose:
               value: "anuncios"
             - name: "Resultados"
               value: "resultados"
+      - name: "comments"
+        field:
+            element: checkbox
+            value: true
     _posts/static:
       - name: "layout"
         field:
