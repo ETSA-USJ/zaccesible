@@ -7,7 +7,7 @@
 
 # Site settings
 title: Zaragoza Accesible
-email: your-email@domain.com
+email: ccamara@usj.es
 description: > # this means to ignore newlines until "baseurl:"
   Proyecto de mapeado colaborativo de
   aspectos relacionados con la discapacidad y la movilidad desarrollado en el marco de la <b>cátedra Bantierra - Fundación Adecco</b> de la
@@ -37,6 +37,12 @@ prose:
         field:
           element: "hidden"
           value: "blog"
+      - name: "published"
+        field:
+          element: "button"
+          label: "Publicar"
+          on: "Publicado"
+          off: "Despublicado"
       - name: "tags"
         field:
           element: "multiselect"
@@ -47,6 +53,10 @@ prose:
               value: "mapas"
             - name: "OpenStreetMap"
               value: "openstreetmap"
+            - name: "Anuncios"
+              value: "anuncios"
+            - name: "Resultados"
+              value: "resultados"
     _posts/static:
       - name: "layout"
         field:
@@ -57,3 +67,9 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+      - name: "published"
+        field:
+          element: "button"
+          label: "Publicar"
+          on: "Publicado"
+          off: "Despublicado"
