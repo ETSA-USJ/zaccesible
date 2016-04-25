@@ -73,6 +73,7 @@ prose:
               value: "resultados"
       - name: "comments"
         field:
+            label: "Comments?"
             element: checkbox
             value: true
     _posts/static:
