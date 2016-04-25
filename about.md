@@ -7,25 +7,33 @@ published: true
 
 
 
-Zaragoza Accesible es un proyecto de mapeado colaborativo de 
-aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado en el marco de la **cátedra Bantierra - Fundación Adecco** de la 
-[Escuela Técnica Superior de Arquitectura](http://etsa.usj.es) de la 
-[Universidad San Jorge](http://usj.es) 
+Zaragoza Accesible es un proyecto de mapeado colaborativo de
+aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado en el marco de la **cátedra Bantierra - Fundación Adecco** de la
+[Escuela Técnica Superior de Arquitectura](http://etsa.usj.es) de la
+[Universidad San Jorge](http://usj.es)
 
-## Miembros de la Cátedra 
+## Miembros de la Cátedra
 
-Curso 2015-16
+<ul>
+{% for member in site.data.members %}
+  <li>
+    <a href="{{ member.url }}">{{ member.name }}</a> <br>
+    <i>{{ member.job }}</i></br>
+  </li>
+{% endfor %}
+</ul>
 
- * Carlos Cámara Menoyo (Coordinador del proyecto)
- * Ana Ruiz Varona 
- * César Canalís Pedrón
- * Santiago Elía
- 
  Cursos anteriores
- 
- * Ángel B. Comeras Serrano
- * Santiago Carroquino Larraz
- 
+
+ <ul>
+ {% for member in site.data.members-legacy %}
+   <li>
+     <a href="{{ member.url }}">{{ member.name }}</a> <br>
+     <i>{{ member.job }}</i></br>
+   </li>
+ {% endfor %}
+ </ul>
+
 ## Agradecimientos
 
 Este proyecto no sería posible sin el soporte de [Bantierra](http://www.bantierra.es/) y la [Fundación Addeco](http://www.fundacionadecco.es),  a la participación desinteresada de la comunidad [OpenStreetMap](htpp://openstretmap.org) de Zaragoza y a los miembros de Zaragoza Activa por su soporte en la consolidación de un grupo de trabajo.
