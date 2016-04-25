@@ -73,3 +73,32 @@ prose:
           label: "Publicar"
           on: "Publicado"
           off: "Despublicado"
+    _drafts:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Layout"
+          options:
+            - name: "Blog"
+              value: "blog"
+            - name: "Page"
+              value: "page"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Mapas"
+              value: "mapas"
+            - name: "OpenStreetMap"
+              value: "openstreetmap"
+            - name: "Anuncios"
+              value: "anuncios"
+            - name: "Resultados"
+              value: "resultados"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
