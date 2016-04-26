@@ -1,7 +1,7 @@
 ---
-layout: blog
-published: false
-tags: 
+layout: post
+published: true
+tags:
   - anuncios
 comments: true
 author: Carlos Cámara
@@ -14,4 +14,3 @@ Con este objetivo en mente, el pasado día 1 de abril tuvimos una reunión con *
 estupenda noticia? Significa que, por lo pronto, nos ceden sus espacios de forma quincenal para hacer las actividades que creamos convenientes para los objetivos del grupo con la condición de que sean abiertas a todo el mundo y publiquemos los avances en [su blog](http://blogzac.es/category/think-zac-las-armas/), incluirán en su programación habitual y medios de difusión habituales (folleto, mailing y red ZAC).  Por otro lado, permite que las primeras actividades del grupo sirvan para los objetivos del proyecto *[Zaragoza Accesible](about)* y para adquirir consciencia de los problemas relativos con la movilidad de las personas discapacitadas y para consolidar a corto-medio plazo una comunidad de mapeadores de OSM en Zaragoza, si bien a la larga la idea es que sea el propio grupo y sus integrantes quienes decida sus propias dinámicas y contenidos.
 
 Así pues, terminamos agradeciéndoles a José Ramon y Mapi su interés por el proyecto y su generosidad y contribución a su correcto desempeño, así como a Miguel Sevilla-Callejo, quien se ha mostrado interesado y colaborador en todo momento desde que anunciamos nuestras intenciones en la lista de correo de OpenStreetMap y sin el cual todo esto no sería posible.
-
