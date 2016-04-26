@@ -77,7 +77,7 @@ prose:
             label: "Comments?"
             element: checkbox
             value: true
-    _posts/static:
+    pages:
       - name: "layout"
         field:
           element: "hidden"
@@ -87,20 +87,19 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-      - name: "published"
+      - name: "Published"
         field:
-          element: "button"
-          label: "Publicar"
-          on: "Publicado"
-          off: "Despublicado"
+            label: "Publicado"
+            element: checkbox
+            value: false
     _drafts:
       - name: "layout"
         field:
           element: "select"
           label: "Layout"
           options:
-            - name: "Blog"
-              value: "blog"
+            - name: "Post"
+              value: "post"
             - name: "Page"
               value: "page"
       - name: "tags"
