@@ -22,8 +22,9 @@ github_username:  etsa-usj
 markdown: kramdown
 
 # Custom variables:
-# Multiple authors: https://gist.github.com/ravasthi/1834570
-authors:
+kramdown:
+  auto_ids: true # Auto-generate ID's for headings
+authors: # Multiple authors: https://gist.github.com/ravasthi/1834570
   ccamara:
     name: Carlos Cámara
     display_name: Carlos Cámara
