@@ -30,7 +30,7 @@ Durante el curso 2015-16 se plantea una primera fase de **prueba piloto** del pr
 A nivel particular se establecen los siguientes objetivos:
 
 1. Elaboración de un **protocolo** que sirva para la toma de datos relacionados con la discapacidad y la movilidad para la confección posterior de un mapa.
-1. Elaboración de un **prototipo del mapa** funcional y con las características que se detallan [a continuación](#acerca-del-mapa).
+1. Elaboración de un **prototipo del mapa** funcional y con las características que se detallan [a continuación](#acerca-del-mapa). Debido a limitaciones de tiempo y recursos, el prototipo estará limitado a determinados barrios de Zaragoza (El Gancho y Actur).
 1. Puesta a prueba y consolidación de la **infraestructura tecnológica** necesaria para la publicación del mapa y la posterior utilización de los datos recopilados en el trabajo de campo.
 1. Establecer **sinergias** con entidades y personas interesadas en participar en un proyecto de integración de un colectivo desfavorecido mediante la utilización de TICs y basada en el conocimiento local de la ciudad a través de la creación de una **red de colaboración**.
 
