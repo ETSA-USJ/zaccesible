@@ -1,6 +1,7 @@
 ---
 layout: post
 published: true
+categories: blog
 tags:
   - anuncios
 comments: true
