@@ -5,7 +5,7 @@ date: "2016-04-02 19:58:40 +0200"
 author: Carlos Cámara
 comments: true
 categories: blog
-published: false
+published: true
 tags: 
   - anuncios
   - eventos
