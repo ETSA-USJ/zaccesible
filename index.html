@@ -3,9 +3,20 @@ layout: default
 ---
 
 <div class="home">
-  <h2>Web en construcción</h2>
-
   <p>{{ site.description }}</p>
+
+  <h1>{{ page.title }}</h1>
+
+  <h2>Blog </h2>
+
+  <p> Últimos posts en el blog:</p>
+  
+  <ul class="posts">
+
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
