@@ -2,18 +2,18 @@
 layout: post
 title: "Mapping Party #ZACcesibilidad"
 date: "2016-04-02 19:58:40 +0200"
-author: "Carlos Cámara"
+author: Carlos Cámara
 comments: true
 categories: blog
-published: true
-tags:
- - eventos
- - anuncios
+published: false
+tags: 
+  - anuncios
+  - eventos
 ---
 
 ![Mapping party at Camp Roberts](/media/mapping party-development seed.jpg)
 
-Durante los días 6, 7 y 9 de mayo tendrá lugar la primera *Mapping Party* dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la [cátedra Bantierra-Fundación Adecco](/catedra) de la [USJ](http://usj.es) y el grupo de trabajo *Mapeado Colaborativo* de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y a la que invitamos a todo el mundo a participar.
+Durante los días 6, 7 y 9 de mayo tendrá lugar la primera *Mapping Party* dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la [cátedra Bantierra-Fundación Adecco](/catedra) de la [USJ](http://usj.es) y el grupo de trabajo *[Mapeado Colaborativo](2016-04-07-mapeado-colaborativo-zac)* de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y a la que invitamos a todo el mundo a participar.
 
 Una *Mapping Party* es un evento abierto a todo el mundo en el que voluntarios se reunen para mapear colaborativamente y de forma coordinada a través de la plataforma [OpenStreetMap](http://openstreetmap.org).
 
@@ -37,11 +37,11 @@ Para ello dedicaremos un día para presentar el grupo y la metodología, otro pa
 
 **Material neceario:** Ninguno.
 
-> \* Dado que el aforo a la sala es limitado a 12 personas, este es el único evento de la mapping party que requiere inscripción previa a través de [este enlace de la red ZAC](http://xxxx). Quienes no puedan asistir o hayan quedado fuera son también bienvenidos y el sábado siguiente realizaremos un breve resumen de la metodología.
+> \* Dado que el aforo a la sala es limitado a 12 personas, este es el único evento de la mapping party que requiere inscripción previa a través de [este enlace de la red ZAC](http://www.zaragoza.es/zac/events/33039). Quienes no puedan asistir o hayan quedado fuera son también bienvenidos y el sábado siguiente realizaremos un breve resumen de la metodología.
 
 ### Salida de campo/Toma de datos (Sábado 7 de mayo)
 
-**Día y hora:** Sábado 7 de mayo, de 9:00 a 14:00
+**Día y hora:** Sábado 7 de mayo, de 10:00 a 14:00
 
 **Lugar:** Aula de informática de la Sede de Zaragoza Activa en Las Armas ([Las Armas, 72](http://www.openstreetmap.org/?mlat=41.65683&amp;mlon=-0.88606#map=19/41.65683/-0.88606))
 
