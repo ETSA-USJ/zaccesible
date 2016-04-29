@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Mapping Party #ZACcesibilidad"
-date: "2016-04-02 19:58:40 +0200"
+date: "2016-04-29 10:58:40 +0200"
 author: Carlos Cámara
 comments: true
 categories: blog
 published: true
-tags: 
+tags:
   - anuncios
   - eventos
 ---
