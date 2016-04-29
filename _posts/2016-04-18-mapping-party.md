@@ -5,7 +5,7 @@ date: "2016-04-02 19:58:40 +0200"
 author: Carlos Cámara
 comments: true
 categories: blog
-published: false
+published: true
 tags: 
   - anuncios
   - eventos
@@ -35,7 +35,7 @@ Para ello dedicaremos un día para presentar el grupo y la metodología, otro pa
 * Introducción a OpenStreetMap
 * Explicación metodología a seguir en la mapping party.
 
-**Material neceario:** Ninguno.
+**Material necesario:** Ninguno.
 
 > \* Dado que el aforo a la sala es limitado a 12 personas, este es el único evento de la mapping party que requiere inscripción previa a través de [este enlace de la red ZAC](http://www.zaragoza.es/zac/events/33039). Quienes no puedan asistir o hayan quedado fuera son también bienvenidos y el sábado siguiente realizaremos un breve resumen de la metodología.
 
@@ -51,7 +51,7 @@ Para ello dedicaremos un día para presentar el grupo y la metodología, otro pa
 * Creación de grupos y toma de datos
 * Puesta en común y despedida
 
-**Material neceario:** Únicamente será neceario disponer de un bolígrafo o rotulador para anotar sobre mapas impresos en papel ([Fieldpapers](http://fieldpapers.org/)) que serán proporcionados por los organizadores. Opcionalmente, los asistentes podrán traer un GPS convencional o un smartphone con GPS y alguno de estos programas presentados el día anterior: OSMAnd, OSM Tracker, Vespucci, Maps.me.
+**Material necesario:** Únicamente será neceario disponer de un bolígrafo o rotulador para anotar sobre mapas impresos en papel ([Fieldpapers](http://fieldpapers.org/)) que serán proporcionados por los organizadores. Opcionalmente, los asistentes podrán traer un GPS convencional o un smartphone con GPS y alguno de estos programas presentados el día anterior: OSMAnd, OSM Tracker, Vespucci, Maps.me.
 
 ### Publicación de datos en OSM (Lunes 9 de mayo)
 
@@ -65,7 +65,7 @@ Para ello dedicaremos un día para presentar el grupo y la metodología, otro pa
 * Creación de cuenta de usuario en OSM
 * Publicación de los datos recopilados
 
-**Material neceario:** Ninguno. Utilizaremos los ordenadores del aula de informática de Zaragoza Activa. Opcionalmente los asistentes podrán traer sus propios ordenadores.
+**Material necesario:** Ninguno. Utilizaremos los ordenadores del aula de informática de Zaragoza Activa. Opcionalmente los asistentes podrán traer sus propios ordenadores.
 
 ## ¿A quién se dirige?
 
