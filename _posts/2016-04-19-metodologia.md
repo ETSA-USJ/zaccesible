@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Metodología
 published: true
 categories: blog
 tags:

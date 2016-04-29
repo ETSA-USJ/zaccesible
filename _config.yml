@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   <a href="http://etsa.usj.es">Escuela Técnica Superior de Arquitectura</a> de la
   <a href="http://usj.es">Universidad San Jorge</a>
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://zaccesible.usj.es" # the base hostname & protocol for your site
 twitter_username: etsa_usj
 github_username:  etsa-usj
 
