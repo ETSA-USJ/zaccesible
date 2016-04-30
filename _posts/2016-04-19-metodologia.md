@@ -3,7 +3,7 @@ layout: post
 title: Metodología
 published: true
 categories: blog
-tags: 
+tags:
   - metodología
 comments: true
 author: César Canalís
@@ -14,14 +14,11 @@ author: César Canalís
 ## Zaccesibilidad. **Consideraciones y apuntes previos.**
 
 El objetivo de *Zaragoza Accesible* es mapear las barreras arquitectónicas de la ciudad de Zaragoza con el fin facilitar el día a día de sus habitantes con discapacidad.
-Para ello se utilizará la herramienta de [Open Street Map](http://osm.org) con el fin de que quede en una base de datos abiertos para que todo el mundo tenga acceso tanto para información como para elaborar proyectos futuros.
+Para ello se utilizará [Open Street Map](http://osm.org) como herramienta de trabajo con el fin de que quede en una base de datos abiertos para que todo el mundo tenga acceso tanto para información como para elaborar proyectos futuros.
 
-Aún estando toda la información necesaria en [la wiki de OSM](http://wiki.openstreetmap.org/wiki/Main_Page) vamos a exponer de manera sintética y resumida los aspectos principales con los que trabajar en **Open Street Map**  en el ámbito de la accesiblidad:
+Aún estando toda la información necesaria en [la wiki de OSM](http://wiki.openstreetmap.org/wiki/Main_Page) vamos a exponer de manera sintética y resumida los aspectos principales con los que trabajar en **Open Street Map**  en el ámbito de la accesiblidad: Primero veremos las principales discapacidades con las que vamos a trabajar, para posteriormente hacer una aplicación práctica de los *tags* que debemos utilizar en OpenStreetMap.
 
-La exactitud  de los elementos a la hora de mapear es muy **importante**. Si no se sabe seguro la situación de un elemento añadir `FIXME:Position estimated` a la entrada, para que la siguiente persona ponga las coordenadas de manera correcta.
-
-Primero veremos las principales discapacidades con las que vamos a trabajar, para posteriormente hacer una aplicación práctica de los *tags* que debemos utilizar en OpenStreetMap.
-
+* TOC will be output here
 {:toc}
 
 ## Discapacidades
@@ -30,17 +27,17 @@ Para el proyecto hemos tenido en cuenta dos grandes tipos de discapacidades: dis
 
 ### Disminuidos visuales y ceguera
 
-1.CÓMO MAPEAR.
+**1.Qué vamos a mapear y cómo lo vamos a hacer.**
 
-Hemos establecido los siguientes items a mapear, con sus correspondientes equivalencias de *tags* (etiquetas) de [OpenStreetMap](http://openstreetmap.org):
+Hemos identificado los siguientes items a mapear, con sus correspondientes equivalencias de *tags* (etiquetas) de [OpenStreetMap](http://openstreetmap.org):
 
   * **Pavimento táctil**:    `Tactile_paving=yes/no/incorrect`
   * **Mapas en relieve**:  `Information=Tactile_Map`
   * **Escritura táctil**: `Information=Braille`
   * **Sonidos (descripciones sonoras)**: `Acoustic=Voice_Description`
-  * **Luces de tráfico con sonido**: `Traffic_signals:sound= yes/no`
+  * **Semáforos con sonido**: `Traffic_signals:sound= yes/no`
 
-2.LUGARES Y ELEMENTOS DE INTERÉS
+**2. Lugares y elementos de interés**
 
 * Paradas de transporte público.
 * Pasos de peatones.
@@ -53,19 +50,11 @@ Hemos establecido los siguientes items a mapear, con sus correspondientes equiva
  * Museos con narración.
  * Lugares turísticos con guías MP3.
 
-
- 3.CONSIDERACIONES
-
- * Si  se van a añadir puntos, es mejor añadir edificios y poner el punto justo en la entrada. Tratar de no añadir puntos estimados.
- * Si se ponen números de portales, poner exactamente el nodo de entrada en el portal.
- * Si se mapean calles por primera vez, añadir carriles de estacionamiento, carriles bici y aceras asi como número y ancho de los mismos.
-
-
 ### Disminuidos físicos con movilidad reducida
 
-1.CÓMO MAPEAR
+**1.Qué vamos a mapear y cómo lo vamos a hacer.**
 
-Hemos establecido los siguientes items a mapear, con sus correspondientes equivalencias de *tags* (etiquetas) de [OpenStreetMap](http://openstreetmap.org):
+Hemos identificado los siguientes items a mapear, con sus correspondientes equivalencias de *tags* (etiquetas) de [OpenStreetMap](http://openstreetmap.org):
 
 * **Accesible en silla de ruedas**: `Wheelchair=yes/no/limited`
 * **Tipo de bordillo**: `Kerb=Lowered/Raised/Flush`
@@ -78,8 +67,7 @@ Hemos establecido los siguientes items a mapear, con sus correspondientes equiva
 * **Parking para discapacitados**: `Amenity= Parking` / `Capacity:Disabled=yes/no`
 * **Parques adaptados**: `Leisure=Prayground`/ `Wheelchair= yes/no`
 
-
- 2.LUGARES Y ELEMENTOS DE INTERÉS.
+**2. Lugares y elementos de interés.**
 
  * Paradas de transporte público.
  * Pasos de peatones.
@@ -139,3 +127,10 @@ El objetivo del trabajo es identificar las barreras arquitectónicas de la ciuda
   * **Rampa para silla de ruedas**: `Ramp:Wheelchair=yes/no`
   * **Pasamanos**: `Handrail=yes/no`
    * **Situación del pasamanos**: `Handrail=right/center/left`
+
+## Consideraciones finales
+
+* Si  se van a añadir puntos, es mejor añadir edificios y poner el punto justo en la entrada. Tratar de no añadir puntos estimados.
+* Si se ponen números de portales, poner exactamente el nodo de entrada en el portal.
+* Si se mapean calles por primera vez, añadir carriles de estacionamiento, carriles bici y aceras asi como número y ancho de los mismos.
+* La exactitud  de los elementos a la hora de mapear es muy **importante**. Si no se sabe seguro la situación de un elemento añadir `FIXME:Position estimated` a la entrada, para que la siguiente persona ponga las coordenadas de manera correcta.
