@@ -103,8 +103,8 @@ El objetivo del trabajo es identificar las barreras arquitectónicas de la ciuda
  * **Tipo de bordillo** a ras/rebajado/elevado `Kerb_flush/lowered/raised`
  * **Accesible en silla de ruedas** si/no `Wheelchair_yes/no`
  * **Accesible en bicicleta** si/no `Bicycle_yes/no`
- * ** Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
- * ** Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
+ * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
+ * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
  * **Tipo de cruce de peatones**
     * *Open Street Map* establece una categorización de los cruces de peatones según tengan o no semáforos o permitan el paso de bicicletas.
     * Si **tiene semáforos** y **permite el paso de bicicletas** `Crossing_ref=Toucan`
@@ -121,9 +121,8 @@ El objetivo del trabajo es identificar las barreras arquitectónicas de la ciuda
  * **Pavimento táctil** si/no/incorrecto `Tactile_paving=yes/no/incorrect`
  * **Accesible en silla de ruedas** si/no `Wheelchair_yes/no`
  * **Accesible en bicicleta** si/no `Bicycle_yes/no`
- * ** Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
-  * ** Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
-
+ * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
+  * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
 
 * **Calles con vial rodado** `Highway_tertiary`
   * **Pavimento** Baldosas/Adoquines planos/Adoquines/Hormigón/Asfalto `Surface=Sett/Paving_stones/Cobblestone/Concrete/Asphalt`
@@ -131,9 +130,8 @@ El objetivo del trabajo es identificar las barreras arquitectónicas de la ciuda
   * **Accesible en bicicleta** si/no `Bicycle_yes/no`
   * **Aceras** a ambos lados/ a la derecha/ a la izquierda `sidewalk=both/right/left`
   * **Anchura** `Width=____`
-  * ** Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
-  * ** Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
-
+  * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
+  * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
 
 * **Escaleras** `Highway=steps`
   * **Número de escalones**: `Step_count= número de escalones`
