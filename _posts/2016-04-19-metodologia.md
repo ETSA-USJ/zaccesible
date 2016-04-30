@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Metodología
-published: true
+published: false
 categories: blog
-tags:
+tags: 
   - metodología
 comments: true
 author: César Canalís
