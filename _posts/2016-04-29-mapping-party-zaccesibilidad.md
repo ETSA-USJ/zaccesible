@@ -53,9 +53,9 @@ Para ello dedicaremos un día para presentar el grupo y la metodología, otro pa
 
 **Material necesario:** Únicamente será neceario disponer de un bolígrafo o rotulador para anotar sobre mapas impresos en papel ([Fieldpapers](http://fieldpapers.org/)) que serán proporcionados por los organizadores. Opcionalmente, los asistentes podrán traer un GPS convencional o un smartphone con GPS y alguno de estos programas presentados el día anterior: OSMAnd, OSM Tracker, Vespucci, Maps.me.
 
-### Publicación de datos en OSM (Lunes 9 de mayo)
+### Publicación de datos en OSM (~~Lunes 9 de mayo~~ Viernes 20 de mayo)
 
-**Día y hora:** Lunes 9 de mayo, de 11:30 a 13:00
+**Día y hora:** ~~Lunes 9 de mayo~~ Viernes 20 de mayo, de 11:30 a 13:00 (debido a [tareas de mantenimiento en el servidor de OSM](https://t.co/D8tnXwt0Z2) la sesión se aplaza hasta el 20 de mayo)
 
 **Lugar:** [Plaza Las Armas, 72](http://www.openstreetmap.org/?mlat=41.65680&mlon=-0.88533#map=19/41.65680/-0.88533&layers=N), frente al centro musical artístico.
 
