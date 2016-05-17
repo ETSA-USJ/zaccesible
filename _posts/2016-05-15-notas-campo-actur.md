@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notas de campo: ACTUR
+title: "Notas de campo: ACTUR"
 published: true
 categories: blog
 tags:
@@ -9,7 +9,6 @@ tags:
 comments: true
 author: César Canalís
 ---
-
 ## ¿Por qué el Actur?
 
 Para empezar el trabajo de investigación la primera decisión que se tomó fue determinar las zonas de actuación iniciales.
@@ -42,20 +41,21 @@ La elección de esta zona se debe a la gran actividad con la que cuenta debido a
 
 * **Paradas de transporte público**
 
- * **Paradas de tranvía**: Como en el resto de la ciudad, las paradas de tranvía cuentan con un enrasamiento óptimo entre el medio de transporte y el bordillo, de manera que facilita en gran medida el acceso de este tipo de usuarios al mismo.
+  * **Paradas de tranvía**: Como en el resto de la ciudad, las paradas de tranvía cuentan con un enrasamiento óptimo entre el medio de transporte y el bordillo, de manera que facilita en gran medida el acceso de este tipo de usuarios al mismo.
 
- * **Paradas de autobús**: En lo que a este elemento respecta, se ha observado una clara diferencia entre las de nueva construcción, que cuentan con un bordillo de mayor altura para facilitar el acceso a la plataforma del autobús y las más antiguas que obvian dicho elemento.
-   Aún así en este tipo de usuarios no resulta un dato de gran importancia puesto que los autobuses adaptados cuentan con plataformas mecánicas para solventar este tipo de problemas.
+  * **Paradas de autobús**: En lo que a este elemento respecta, se ha observado una clara diferencia entre las de nueva construcción, que cuentan con un bordillo de mayor altura para facilitar el acceso a la plataforma del autobús y las más antiguas que obvian dicho elemento.
+
+  Aún así en este tipo de usuarios no resulta un dato de gran importancia puesto que los autobuses adaptados cuentan con plataformas mecánicas para solventar este tipo de problemas.
 
 ### Usuarios con discapacidad visual
 
 * **Pasos de peatones**
 
- * **En lo referente a señalización acústica**: Se ha observado que en los cruces de peatones a lo largo de toda la vía del tranvía los semáforos cuentan con señal acústica, si bien no es prácticamente perceptible para el resto de usuarios ya que esta se activa mediante Bluetooth o mediante un mando.
- El resto de cruces con semáforos no aledaños al tranvía no cuentan con esta medida de seguridad.
+   * **En lo referente a señalización acústica**: Se ha observado que en los cruces de peatones a lo largo de toda la vía del tranvía los semáforos cuentan con señal acústica, si bien no es prácticamente perceptible para el resto de usuarios ya que esta se activa mediante Bluetooth o mediante un mando.
+   El resto de cruces con semáforos no aledaños al tranvía no cuentan con esta medida de seguridad.
 
- * **En lo referente a pavimento táctil**: Si bien existen cruces tanto con semáforos como sin ellos en la zona que cuentan con dicho elemento, es notable la falta de pavimento táctil en muchos de ellos.
- También sería interesante plantear alguna solución en lo referente a la convivencia de las personas con discapacidad visual y los carriles bici, ya que estos no cuentan con ninguna medida de prevención hacia este tipo de usuarios, lo que ocasiona situaciones de conflicto.
+   * **En lo referente a pavimento táctil**: Si bien existen cruces tanto con semáforos como sin ellos en la zona que cuentan con dicho elemento, es notable la falta de pavimento táctil en muchos de ellos.
+   También sería interesante plantear alguna solución en lo referente a la convivencia de las personas con discapacidad visual y los carriles bici, ya que estos no cuentan con ninguna medida de prevención hacia este tipo de usuarios, lo que ocasiona situaciones de conflicto.
 
 * **Calles y Aceras**: Como hemos hablado anteriormente, debido a su morfología las calles del Actur resultan bastante cómodas para este tipo de usuarios, no obstante se echan en falta un gran número de pavimentos táctiles en cercanías de cruces o paradas de transporte público.
 
