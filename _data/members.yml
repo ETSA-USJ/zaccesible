@@ -4,7 +4,7 @@
   url: http://carloscamara.es
 
 - name: César Canalís Pedrón
-  job: Becario
+  job: Investigador
   github: CesarCanalis
 
 - name: Ana Ruiz Varona
@@ -14,3 +14,10 @@
 - name: Santiago Elía García
   job: Investigador
   url: http://etsa.usj.es/es/docentes/santiago-el
+
+- name: Miguel Sevilla-Callejo
+  job: Colaborador externo
+  url: http://twitter.com/msevilla00
+
+- name: Lourdes Pérez
+  job: Becaria
