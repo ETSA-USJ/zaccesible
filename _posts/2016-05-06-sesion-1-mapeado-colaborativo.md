@@ -18,7 +18,7 @@ El viernes 6 de mayo se celebró en la sede de **Zaragoza Activa** situada en la
 La sesión empezó con la presentación de los asistentes y con un pequeño coloquio en el cual se habló de por qué se habían apuntado al grupo y qué esperaban del mismo.
 Sorprendió la variedad de profesionales que coincidimos (Geógrafos, Ingenieros Industriales, Periodistas, Arquitectos...) cada uno con un tipo de aspiraciones iniciales diferente en lo referente al programa.
 
-Continuó la sesión Carlos Cámara con una **introducción al concepto de Mapeado Colaborativo** y presentación de los objetivos iniciales del grupo  (los medios y finales se gestionaran de manera participativa y conjunto por los miembros del grupo ). Posteriormente Miguel Sevilla-Callejo inició la **introducción al programa *Open Street Map* en lo referente a qué es y cómo funciona**.
+Continuó la sesión Carlos Cámara con una **introducción al concepto de Mapeado Colaborativo** y presentación de los objetivos iniciales del grupo  (los medios y finales se gestionaran de manera participativa y conjunto por los miembros del grupo ). Posteriormente Miguel Sevilla-Callejo (con la intervención puntual -y certera- de Alejandro Súarez) inició la **introducción al programa *Open Street Map* en lo referente a qué es y cómo funciona**.
 
 <iframe src="https://docs.google.com/presentation/d/1Wr4ifN_VPnRUw2xTEM7vCUJCdbdmzaKicbeCTA-Qa9k/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="554" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
