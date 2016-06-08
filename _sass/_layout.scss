@@ -206,6 +206,18 @@ a.sidebar-nav-item:focus {
   text-align: right;
 }
 
+.post-footer {
+    position: relative;
+    margin: 4rem 0 0 0;
+    padding: 4rem 0 0 0;
+    border-top: #EBF2F6 1px solid;
+  }
+img.profile {
+  width: 80px;
+  height: auto;
+  border-radius: 50px;
+}
+
 /**
  * Maps
  */

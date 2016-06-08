@@ -7,7 +7,7 @@ tags:
   - resultados
   - mapeado colaborativo
 comments: true
-author: Carlos Cámara
+author: carlos_camara
 ---
 ![Logo Mapeado colaborativo]({{site.baseurl}}/media/mapeado-colaborativo-logo.png)
 

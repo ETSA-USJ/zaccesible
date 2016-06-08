@@ -21,6 +21,21 @@ layout: default
       <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
   </div>
+  <!-- Look the author details up from the site config. -->
+  {% assign author = site.data.authors[page.author] %}
+  <!-- Output author details if some exist. -->
+
+
+  {% if page.author %}
+  <div class="post-footer">
+      <div class="authors">
+          <!-- Personal Info. -->
+          <b><a href="{{ author.web }}" target="_blank">{{ author.name }}</a></b>
+          <p>{{ author.bio }}</p>
+      </div>
+  </div>
+  {% endif %}
+
 
   {% if page.comments %}
   <div id="disqus_thread"></div>
