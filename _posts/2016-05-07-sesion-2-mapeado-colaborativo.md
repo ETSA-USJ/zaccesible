@@ -11,7 +11,7 @@ tags:
   - presentaciones
 categories: blog
 comments: true
-published: false
+published: true
 ---
 
 ![Asistentes a la mapping party distribuyéndonos el trabajo.](/media/Toma de datos Mapping Party.jpg)
