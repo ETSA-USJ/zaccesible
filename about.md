@@ -68,4 +68,5 @@ Este proyecto no sería posible sin el soporte de [Bantierra](http://www.bantier
 * Comunidad OpenStreetMap
   * Miguel Sevilla-Callejo
   * Alejandro Suárez
+  * Miembros del grupo "[Mapeado Colaborativo](/blog/2016/04/07/mapeado-colaborativo-zac.html)"
   * Contribuidores anónimos de [OpenStreetMap](htpp://openstretmap.org)
