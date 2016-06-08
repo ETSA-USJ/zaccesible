@@ -4,6 +4,8 @@ published: true
 categories: blog
 tags:
   - anuncios
+  - resultados
+  - mapeado colaborativo
 comments: true
 author: Carlos Cámara
 ---
