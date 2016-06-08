@@ -5,18 +5,32 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html }}{% endif %}">
+  <meta name="image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+
+
+  <!-- Metatags -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@{{ site.twitter.username | replace:'@','' }}">
+  {% if page.date %}
+    <meta name="twitter:creator" content="@{{ site.author.twitter | replace:'@','' }}">
+  {% endif %}
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | smartify | strip_html | strip_newlines | escape_once }}{% else %}{{ site.name }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | prepend: site.baseurl | prepend: site.url }}{% else %}{{ site.logo | prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta name="twitter:url" content="{{ page.url | replace:'/index.html','/' | prepend: site.baseurl | prepend: site.url }}">
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" type='text/css' href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  
+
   <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
-  
+
   <!--   leaflet -->
   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
   <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+
+
 
   <!-- Google Analytics -->
   <script>

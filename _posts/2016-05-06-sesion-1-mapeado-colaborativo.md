@@ -9,9 +9,14 @@ tags:
   - presentaciones
 categories: blog
 comments: true
+images:
+  - url: /media/Mapping-Party.jpg
+    alt: Carlos Cámara y Miguel Sevilla-Callejo hablando sobre la importancia de los mapas colaborativos vs. comerciales
+    title: Carlos Cámara y Miguel Sevilla-Callejo hablando sobre la importancia de los mapas colaborativos vs. comerciales
 ---
 
-![Carlos Cámara y Miguel Sevilla-Callejo hablando sobre la importancia de los mapas colaborativos vs. comerciales](/media/Mapping-Party.jpg)
+{% assign image = page.images[0] %}
+{% include image.html image=image %}
 
 El viernes 6 de mayo se celebró en la sede de **Zaragoza Activa** situada en la **Calle las Armas** la presentación del grupo residente de **Mapeado Colaborativo** constituído a partir de esta cátedra y la comunidad de OpenStreetMap con el soporte de Zaragoza Activa ([aquí contamos el orígen del grupo y la relación con la cátedra](http://zaccesible.usj.es/blog/2016/04/07/mapeado-colaborativo-zac.html)).
 
