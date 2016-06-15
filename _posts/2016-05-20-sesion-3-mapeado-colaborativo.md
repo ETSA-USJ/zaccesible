@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sesión 3 Mapeado Colaborativo: Publicación de datos"
+title: "Sesión 3 Mapping party #Zaccesibilidad: Subida de datos"
 date: "2016-05-20 09:21:03 +0200"
 author: César Canalís
 categories:

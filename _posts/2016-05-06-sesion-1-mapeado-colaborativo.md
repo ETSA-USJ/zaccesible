@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sesión 1 Grupo de Mapeado colaborativo: Introducción y presentación del grupo de trabajo"
+title: "Sesión 1 Mapping party #Zaccesibilidad: Presentación"
 date: "2016-05-06 13:30:39 +0200"
 author: César Canalís
 tags:

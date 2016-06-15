@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mapeado Colaborativo. Sesión II, Mapping Party #Zaccesible'
+title: 'Sesión 2 Mapping party #Zaccesibilidad: Toma de datos'
 date: '2016-05-07 13:54:41 +0200'
 author:
   - Carlos Cámara
