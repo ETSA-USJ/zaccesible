@@ -16,7 +16,7 @@ comments: yes
 ---
 ![](/media/IMG_20160520_101415_1.jpg)
 
-El viernes 20 de Mayo se llevó a cabo en la sede de [**Zaragoza Activa** Las Armas](http://www.openstreetmap.org/node/2353638893) la tercera sesión de la *Mapping party #Zaccesibilidad* del Gancho organizada con el [grupo residente de **Mapeado Colaborativo.**](/blog/2016/04/07/mapeado-colaborativo-zac.html). La sesión consistió en la subida de datos previamente [recogidos el día 7 de Mayo](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html), y por tanto, la primera aproximación por parte de la mayoría de asistentes a [Open Street Map](http://openstreetmap.org).
+El viernes 20 de Mayo se llevó a cabo en la sede de [**Zaragoza Activa** Las Armas](http://www.openstreetmap.org/node/2353638893) la tercera sesión de la *Mapping party #Zaccesibilidad* del Gancho organizada con el [grupo residente de **Mapeado Colaborativo.**](/blog/2016/04/07/mapeado-colaborativo-zac.html). La sesión consistió en la subida de datos previamente [recogidos el día 7 de Mayo](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html), y por tanto, la primera aproximación por parte de la mayoría de asistentes a [OpenStreetMap](http://openstreetmap.org).
 
 La jornada empezó con una presentación del programa, de sus herramientas y de las licencias de uso de datos que ofrece, así cómo de la explicación de en qué elementos está estructurada la información en un mapa (nodos, líneas y áreas) finalizando con la parte del etiquetado  `clave = valor`.
 

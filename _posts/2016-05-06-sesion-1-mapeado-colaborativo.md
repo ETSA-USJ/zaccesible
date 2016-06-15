@@ -24,10 +24,10 @@ Continuó la sesión Carlos Cámara con una **introducción al concepto de Mapea
 
 La sesión siguió con un descanso en el cual los asistentes intercambiaron las primeras impresiones del programa y ya aparecieron *nuevas* ideas para el uso del programa destancando, por ejemplo, los posibles usos de herramientas de OpenStreetMap y **aplicaciones complementarias** en operaciones de búsqueda de desaparecidos.
 
-Posteriormente continuamos con temas de **accesibilidad** de cara a la Mapping Party que se celebraría [el dia siguiente](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html). Se habló de cómo la ciudad inicialmente pensada para los coches, deja en segundo lugar al peatón y consecuentemente casi excluido al peatón con algún tipo de discapacidad.También se habló de los **elementos a representar** que conforman los **diferentes tipos de barreras arquitectónicas**, así como de la importancia de la **concienciación** de la ciudadanía sobre este tema.
+Posteriormente continuamos con temas de **accesibilidad** de cara a la Mapping Party que se celebraría [el día siguiente](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html). Se habló de cómo la ciudad inicialmente pensada para los coches, deja en segundo lugar al peatón y consecuentemente casi excluído al peatón con algún tipo de discapacidad. También se habló de los **elementos a representar** que conforman los **diferentes tipos de barreras arquitectónicas**, así como de la importancia de la **concienciación** de la ciudadanía sobre este tema.
 
 ![César Canalís presentando cómo realizar la toma de datos del día siguiente](/media/Mapping Party2.jpg)
 
-Para finalizar la actividad presenté el trabajo de campo del dia siguiente, la [toma de datos de la  *Mapping party*](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html), con las diferentes herramientas a utilizar y la división propuesta en zonas del barrio del gancho con el fin de optimizar la toma de datos.
+Para finalizar la actividad presenté el trabajo de campo del día siguiente, la [toma de datos de la  *Mapping party*](/blog/2016/05/07/sesion-2-mapeado-colaborativo.html), con las diferentes herramientas a utilizar y la división propuesta en zonas del barrio del gancho con el fin de optimizar la toma de datos.
 
 Como síntesis de la primera sesión la experiencia fue muy satisfactoria. Un grupo multidisciplinar con unas aspiraciones e inquietudes comunes siempre resulta enriquecedor para todos sus integrantes.
