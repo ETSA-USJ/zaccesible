@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metodología
-published: true
+published: false
 categories: blog
 tags:
   - metodología
@@ -29,11 +29,11 @@ Para el proyecto hemos tenido en cuenta dos grandes tipos de discapacidades: dis
 
 Hemos identificado los siguientes items a mapear, con sus correspondientes equivalencias de *tags* (etiquetas) de [OpenStreetMap](http://openstreetmap.org):
 
-  * **Pavimento táctil**:    `Tactile_paving=yes/no/incorrect`
-  * **Mapas en relieve**:  `Information=Tactile_Map`
-  * **Escritura táctil**: `Information=Braille`
-  * **Sonidos (descripciones sonoras)**: `Acoustic=Voice_Description`
-  * **Semáforos con sonido**: `Traffic_signals:sound= yes/no`
+  * **Pavimento táctil**:    `tactile_paving=yes/no/incorrect`
+  * **Mapas en relieve**:  `information=tactile_map`
+  * **Escritura táctil**: `information=braille`
+  * **Sonidos (descripciones sonoras)**: `acoustic=voice_description`
+  * **Semáforos con sonido**: `traffic_signals:sound= yes/no`
 
 **2. Lugares y elementos de interés**
 
@@ -54,16 +54,16 @@ Hemos identificado los siguientes items a mapear, con sus correspondientes equiv
 
 Hemos identificado los siguientes items a mapear, con sus correspondientes equivalencias de *tags* (etiquetas) de [OpenStreetMap](http://openstreetmap.org):
 
-* **Accesible en silla de ruedas**: `Wheelchair=yes/no/limited`
-* **Tipo de bordillo**: `Kerb=Lowered/Raised/Flush`
-* **Rampa para silla de ruedas**: `Ramp:Wheelchair=yes/no`
-  * **Pasamanos**: `Handrail=yes/no`
-  * **Situación del pasamanos**: `Handrail=right/center/left`
-* **Escaleras**: `Highway=steps`
-    * **Número de escalones**: `Step_count= número de escalones`
-    * **Anchura de las escaleras**: `Width= anchura`
-* **Parking para discapacitados**: `Amenity= Parking` / `Capacity:Disabled=yes/no`
-* **Parques adaptados**: `Leisure=Prayground`/ `Wheelchair= yes/no`
+* **Accesible en silla de ruedas**: `wheelchair=yes/no/limited`
+* **Tipo de bordillo**: `kerb=lowered/raised/flush`
+* **Rampa para silla de ruedas**: `ramp:wheelchair=yes/no`
+  * **Pasamanos**: `handrail=yes/no`
+  * **Situación del pasamanos**: `handrail=right/center/left`
+* **Escaleras**: `highway=steps`
+    * **Número de escalones**: `step_count= número de escalones`
+    * **Anchura de las escaleras**: `width= anchura`
+* **Parking para discapacitados**: `amenity= parking` / `capacity:disabled=yes/no`
+* **Parques adaptados**: `leisure=prayground`/ `wheelchair= yes/no`
 
 **2. Lugares y elementos de interés.**
 
@@ -85,50 +85,50 @@ El objetivo del trabajo es identificar las barreras arquitectónicas de la ciuda
  * Si está regulado por **semáforos**  `crossing=traffic_signals`
  * Si está regulado por **señales** `crossing=uncontrolled`
  * **Señal acústica** en los semáforos si/no `traffic_signals_sound=yes/no`
- * **Pavimento táctil** si/no/incorrecto `Tactile_paving=yes/no/incorrect`
- * **Tipo de bordillo** a ras/rebajado/elevado `Kerb_flush/lowered/raised`
- * **Accesible en silla de ruedas** si/no `Wheelchair_yes/no`
- * **Accesible en bicicleta** si/no `Bicycle_yes/no`
- * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
- * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
+ * **Pavimento táctil** si/no/incorrecto `tactile_paving=yes/no/incorrect`
+ * **Tipo de bordillo** a ras/rebajado/elevado `kerb_flush/lowered/raised`
+ * **Accesible en silla de ruedas** si/no `wheelchair_yes/no`
+ * **Accesible en bicicleta** si/no `bicycle_yes/no`
+ * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
+ * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#zaccesibilidad`
  * **Tipo de cruce de peatones**
     * *Open Street Map* establece una categorización de los cruces de peatones según tengan o no semáforos o permitan el paso de bicicletas.
-    * Si **tiene semáforos** y **permite el paso de bicicletas** `Crossing_ref=Toucan`
-    * Si **tiene semáforos** y **no permite el paso de bicicletas** `Crossing_ref=Pelican`
-    * Si **no tiene semáforos** y **permite el paso de bicicletas** `Crossing_ref=Tiger`
-    * Si **no tiene semáforos** y **no permite el paso de bicicletas** `Crossing_ref=zebra`
+    * Si **tiene semáforos** y **permite el paso de bicicletas** `crossing_ref=toucan`
+    * Si **tiene semáforos** y **no permite el paso de bicicletas** `crossing_ref=pelican`
+    * Si **no tiene semáforos** y **permite el paso de bicicletas** `crossing_ref=tiger`
+    * Si **no tiene semáforos** y **no permite el paso de bicicletas** `crossing_ref=zebra`
 
 
-* **Calles Peatonales** `Highway=pedestrian`
- * **Tipo de bordillo** a ras/rebajado/elevado `Kerb_flush/lowered/raised`
- * **Nombre de la vía** `Name=____`
- * **Anchura** `Width=____`
- * **Pavimento** Baldosas/Adoquines planos/Adoquines/Hormigón/Asfalto `Surface=Sett/Paving_stones/Cobblestone/Concrete/Asphalt`
- * **Pavimento táctil** si/no/incorrecto `Tactile_paving=yes/no/incorrect`
- * **Accesible en silla de ruedas** si/no `Wheelchair_yes/no`
- * **Accesible en bicicleta** si/no `Bicycle_yes/no`
- * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
-  * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
+* **Calles Peatonales** `highway=pedestrian`
+ * **Tipo de bordillo** a ras/rebajado/elevado `kerb_flush/lowered/raised`
+ * **Nombre de la vía** `name=____`
+ * **Anchura** `width=____`
+ * **Pavimento** Baldosas/Adoquines planos/Adoquines/Hormigón/Asfalto `surface=sett/paving_stones/cobblestone/concrete/asphalt`
+ * **Pavimento táctil** si/no/incorrecto `tactile_paving=yes/no/incorrect`
+ * **Accesible en silla de ruedas** si/no `wheelchair_yes/no`
+ * **Accesible en bicicleta** si/no `bicycle_yes/no`
+ * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
+  * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#zaccesibilidad`
 
-* **Calles con vial rodado** `Highway_tertiary`
-  * **Pavimento** Baldosas/Adoquines planos/Adoquines/Hormigón/Asfalto `Surface=Sett/Paving_stones/Cobblestone/Concrete/Asphalt`
-  * **Accesible en silla de ruedas** si/no `Wheelchair_yes/no`
-  * **Accesible en bicicleta** si/no `Bicycle_yes/no`
+* **Calles con vial rodado** `highway_tertiary`
+  * **Pavimento** Baldosas/Adoquines planos/Adoquines/Hormigón/Asfalto `surface=sett/paving_stones/cobblestone/concrete/asphalt`
+  * **Accesible en silla de ruedas** si/no `wheelchair_yes/no`
+  * **Accesible en bicicleta** si/no `bicycle_yes/no`
   * **Aceras** a ambos lados/ a la derecha/ a la izquierda `sidewalk=both/right/left`
-  * **Anchura** `Width=____`
-  * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `Source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
-  * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#Zaccesibilidad`
+  * **Anchura** `width=____`
+  * **Tipo de fuente de información** según hayamos sacado la información en trabajo de campo o mediante otras fuentes de información `source_survey` (ejemplo para cuando la hemos obtenido, por ejemplo, en trabajo de campo)
+  * **Observaciones** para poner cualquier tipo de información adicional que se crea de interés se utilizará la etiqueta "note". En este caso como es dentro del proyecto de Zaccesibilidad se puede optar por poner  `note=#zaccesibilidad`
 
-* **Escaleras** `Highway=steps`
-  * **Número de escalones**: `Step_count= número de escalones`
-  * **Anchura de las escaleras**: `Width= anchura`
-  * **Rampa para silla de ruedas**: `Ramp:Wheelchair=yes/no`
-  * **Pasamanos**: `Handrail=yes/no`
-   * **Situación del pasamanos**: `Handrail=right/center/left`
+* **Escaleras** `highway=steps`
+  * **Número de escalones**: `step_count= número de escalones`
+  * **Anchura de las escaleras**: `width= anchura`
+  * **Rampa para silla de ruedas**: `ramp:wheelchair=yes/no`
+  * **Pasamanos**: `handrail=yes/no`
+   * **Situación del pasamanos**: `handrail=right/center/left`
 
 ## Consideraciones finales
 
 * Si  se van a añadir puntos, es mejor añadir edificios y poner el punto justo en la entrada. Tratar de no añadir puntos estimados.
 * Si se ponen números de portales, poner exactamente el nodo de entrada en el portal.
 * Si se mapean calles por primera vez, añadir carriles de estacionamiento, carriles bici y aceras asi como número y ancho de los mismos.
-* La exactitud  de los elementos a la hora de mapear es muy **importante**. Si no se sabe seguro la situación de un elemento añadir `FIXME:Position estimated` a la entrada, para que la siguiente persona ponga las coordenadas de manera correcta.
+* La exactitud  de los elementos a la hora de mapear es muy **importante**. Si no se sabe seguro la situación de un elemento añadir `fixme:position estimated` a la entrada, para que la siguiente persona ponga las coordenadas de manera correcta.
