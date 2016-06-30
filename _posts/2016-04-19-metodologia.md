@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metodología
-published: false
+published: true
 categories: blog
 tags:
   - metodología
