@@ -63,7 +63,7 @@ Hemos identificado los siguientes items a mapear, con sus correspondientes equiv
     * **Número de escalones**: `step_count= número de escalones`
     * **Anchura de las escaleras**: `width= anchura`
 * **Parking para discapacitados**: `amenity= parking` / `capacity:disabled=yes/no`
-* **Parques adaptados**: `leisure=prayground`/ `wheelchair= yes/no`
+* **Parques adaptados**: `leisure=playground`/ `wheelchair= yes/no`
 
 **2. Lugares y elementos de interés.**
 
@@ -81,8 +81,8 @@ Hemos identificado los siguientes items a mapear, con sus correspondientes equiv
 
 El objetivo del trabajo es identificar las barreras arquitectónicas de la ciudad de Zaragoza, para mapear en *Open Street Map* identificaremos los siguientes elementos:
 
-* **Cruces de peatones**  ``highway=crossing``
- * Si está regulado por **semáforos**  `crossing=traffic_signals`
+* **Cruces de peatones** `highway=crossing`
+ * Si está regulado por **semáforos** `crossing=traffic_signals`
  * Si está regulado por **señales** `crossing=uncontrolled`
  * **Señal acústica** en los semáforos si/no `traffic_signals_sound=yes/no`
  * **Pavimento táctil** si/no/incorrecto `tactile_paving=yes/no/incorrect`
@@ -102,7 +102,7 @@ El objetivo del trabajo es identificar las barreras arquitectónicas de la ciuda
 * **Calles Peatonales** `highway=pedestrian`
  * **Tipo de bordillo** a ras/rebajado/elevado `kerb_flush/lowered/raised`
  * **Nombre de la vía** `name=____`
- * **Anchura** `width=____`
+ * **Anchura** `width=____` (en metros)
  * **Pavimento** Baldosas/Adoquines planos/Adoquines/Hormigón/Asfalto `surface=sett/paving_stones/cobblestone/concrete/asphalt`
  * **Pavimento táctil** si/no/incorrecto `tactile_paving=yes/no/incorrect`
  * **Accesible en silla de ruedas** si/no `wheelchair_yes/no`
