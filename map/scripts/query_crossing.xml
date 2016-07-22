@@ -1,0 +1,21 @@
+<!-- Source:  http://overpass-turbo.eu/s/hrB -->
+
+<osm-script output="json" timeout="25">
+  <union into="_">
+    <query into="_" type="node">
+      <has-kv k="note" modv="" v="#Zaccesibilidad"/>
+      <bbox-query e="-0.7947921752929688" into="_" n="41.70098651212106" s="41.58514760428351" w="-0.9758949279785156"/>
+    </query>
+    <query into="_" type="way">
+      <has-kv k="note" modv="" v="#Zaccesibilidad"/>
+      <bbox-query e="-0.7947921752929688" into="_" n="41.70098651212106" s="41.58514760428351" w="-0.9758949279785156"/>
+    </query>
+    <query into="_" type="relation">
+      <has-kv k="note" modv="" v="#Zaccesibilidad"/>
+      <bbox-query e="-0.7947921752929688" into="_" n="41.70098651212106" s="41.58514760428351" w="-0.9758949279785156"/>
+    </query>
+  </union>
+  <print e="" from="_" geometry="skeleton" limit="" mode="body" n="" order="id" s="" w=""/>
+  <recurse from="_" into="_" type="down"/>
+  <print e="" from="_" geometry="skeleton" limit="" mode="skeleton" n="" order="quadtile" s="" w=""/>
+</osm-script>
