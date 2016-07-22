@@ -1,0 +1,22 @@
+<osm-script output="xml" timeout="25">
+    <union>
+        <query type="node">
+            <has-kv k="traffic_signals:sound" v="*"/>
+            <bbox-query {{bbox}}/>
+        </query>
+        <query type="way">
+            <has-kv k="traffic_signals:sound" v="*"/>
+            <bbox-query {{bbox}}/>
+        </query>
+        <query type="relation">
+            <has-kv k="traffic_signals:sound" v="*"/>
+            <bbox-query {{bbox}}/>
+        </query>
+    </union>
+    <union>
+        <item/>
+        <recurse type="down"/>
+    </union>
+    <print mode="body"/>
+</osm-script>
+ 
