@@ -1,0 +1,2404 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-07-09T10:36:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/6016215",
+      "properties": {
+        "@id": "way/6016215",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Manifestación",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "2",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8797842,
+            41.6554212
+          ],
+          [
+            -0.8803711,
+            41.6557073
+          ],
+          [
+            -0.8804108,
+            41.6557266
+          ],
+          [
+            -0.8811396,
+            41.6560783
+          ],
+          [
+            -0.8812291,
+            41.6561215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23022652",
+      "properties": {
+        "@id": "way/23022652",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Azoque",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "3.3",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "3.3",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "3.3",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8846927,
+            41.6510314
+          ],
+          [
+            -0.8846247,
+            41.6510855
+          ],
+          [
+            -0.8845586,
+            41.6511414
+          ],
+          [
+            -0.8844908,
+            41.6512283
+          ],
+          [
+            -0.8844294,
+            41.651342
+          ],
+          [
+            -0.8843975,
+            41.6514257
+          ],
+          [
+            -0.8843053,
+            41.6516676
+          ],
+          [
+            -0.8841543,
+            41.6520661
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23076952",
+      "properties": {
+        "@id": "way/23076952",
+        "highway": "residential",
+        "kerb": "lowered",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Calle de San Jorge",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.8",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.8",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.8",
+        "source": "survey",
+        "source:date": "19-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8748768,
+            41.6511388
+          ],
+          [
+            -0.8748814,
+            41.6512096
+          ],
+          [
+            -0.8748996,
+            41.6512379
+          ],
+          [
+            -0.8750888,
+            41.6515314
+          ],
+          [
+            -0.8751444,
+            41.651571
+          ],
+          [
+            -0.8754966,
+            41.6517595
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23110548",
+      "properties": {
+        "@id": "way/23110548",
+        "highway": "residential",
+        "kerb": "lowered",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Calle de Santa Teresa de Jesús",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "3.4",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "3.4",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "3.4",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8915357,
+            41.6423704
+          ],
+          [
+            -0.8916001,
+            41.6423015
+          ],
+          [
+            -0.8925123,
+            41.6413261
+          ],
+          [
+            -0.8925742,
+            41.64126
+          ],
+          [
+            -0.8926187,
+            41.641212
+          ],
+          [
+            -0.8930095,
+            41.6407929
+          ],
+          [
+            -0.8933348,
+            41.6404475
+          ],
+          [
+            -0.8935391,
+            41.6402292
+          ],
+          [
+            -0.8937358,
+            41.6400078
+          ],
+          [
+            -0.8944109,
+            41.6392843
+          ],
+          [
+            -0.8947841,
+            41.6388666
+          ],
+          [
+            -0.8950672,
+            41.6385626
+          ],
+          [
+            -0.8954578,
+            41.6381629
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/23342122",
+      "properties": {
+        "@id": "way/23342122",
+        "highway": "secondary",
+        "kerb": "lowered",
+        "name": "Calle San Juan de la Cruz",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "4.3",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "4.3",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "4.3",
+        "source": "survey",
+        "source:date": "09-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8938752,
+            41.6418424
+          ],
+          [
+            -0.8937588,
+            41.6417808
+          ],
+          [
+            -0.8934887,
+            41.6416408
+          ],
+          [
+            -0.8933478,
+            41.6415729
+          ],
+          [
+            -0.8932563,
+            41.6415287
+          ],
+          [
+            -0.8927251,
+            41.6412649
+          ],
+          [
+            -0.8926187,
+            41.641212
+          ],
+          [
+            -0.8921702,
+            41.6411259
+          ],
+          [
+            -0.8917197,
+            41.6410542
+          ],
+          [
+            -0.8916421,
+            41.6410419
+          ],
+          [
+            -0.8914498,
+            41.6410209
+          ],
+          [
+            -0.8912875,
+            41.6409925
+          ],
+          [
+            -0.8911518,
+            41.640963
+          ],
+          [
+            -0.890595,
+            41.6408807
+          ],
+          [
+            -0.8903652,
+            41.6408524
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24305491",
+      "properties": {
+        "@id": "way/24305491",
+        "highway": "residential",
+        "kerb": "lowered",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Calle de Juan José Rivas",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.2",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.2",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.2",
+        "source": "survey",
+        "source:date": "09-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8916421,
+            41.6410419
+          ],
+          [
+            -0.8916282,
+            41.6411059
+          ],
+          [
+            -0.8916188,
+            41.6411492
+          ],
+          [
+            -0.891594,
+            41.6412627
+          ],
+          [
+            -0.8914182,
+            41.6415066
+          ],
+          [
+            -0.891236,
+            41.6416502
+          ],
+          [
+            -0.8910947,
+            41.6417309
+          ],
+          [
+            -0.8910448,
+            41.6417594
+          ],
+          [
+            -0.8909579,
+            41.6417969
+          ],
+          [
+            -0.8904478,
+            41.642017
+          ],
+          [
+            -0.890395,
+            41.6420398
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24321437",
+      "properties": {
+        "@id": "way/24321437",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de Martín Ruizanglada",
+        "note": "#Zaccesibilidad",
+        "old_name": "Calle del Alférez Provisional",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.5",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.5",
+        "source": "survey",
+        "source:date": "09-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8899876,
+            41.6407988
+          ],
+          [
+            -0.8899753,
+            41.6408424
+          ],
+          [
+            -0.8899716,
+            41.6408684
+          ],
+          [
+            -0.8899632,
+            41.6409184
+          ],
+          [
+            -0.8899576,
+            41.640952
+          ],
+          [
+            -0.8899508,
+            41.6410353
+          ],
+          [
+            -0.8899608,
+            41.6411178
+          ],
+          [
+            -0.890033,
+            41.6413434
+          ],
+          [
+            -0.8901287,
+            41.6415693
+          ],
+          [
+            -0.8903283,
+            41.6419219
+          ],
+          [
+            -0.890395,
+            41.6420398
+          ],
+          [
+            -0.8904827,
+            41.6423403
+          ],
+          [
+            -0.8905349,
+            41.6425677
+          ],
+          [
+            -0.8905513,
+            41.6427194
+          ],
+          [
+            -0.8905594,
+            41.6429408
+          ],
+          [
+            -0.8905607,
+            41.6432605
+          ],
+          [
+            -0.8905583,
+            41.643316
+          ],
+          [
+            -0.8905567,
+            41.6433548
+          ],
+          [
+            -0.8905486,
+            41.6434129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24321879",
+      "properties": {
+        "@id": "way/24321879",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de Antonio Gil de Jasa",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8868173,
+            41.6427724
+          ],
+          [
+            -0.8868096,
+            41.642819
+          ],
+          [
+            -0.8867286,
+            41.6433059
+          ],
+          [
+            -0.8867204,
+            41.6433552
+          ],
+          [
+            -0.8866286,
+            41.6439357
+          ],
+          [
+            -0.8866206,
+            41.6439864
+          ],
+          [
+            -0.8866137,
+            41.6440311
+          ],
+          [
+            -0.8864869,
+            41.6448503
+          ],
+          [
+            -0.8864759,
+            41.644921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24326514",
+      "properties": {
+        "@id": "way/24326514",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle San Andrés",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.6",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.6",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.6",
+        "source": "survey",
+        "source:date": "18-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8788866,
+            41.6522595
+          ],
+          [
+            -0.8780399,
+            41.6529086
+          ],
+          [
+            -0.8779931,
+            41.6529445
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24481699",
+      "properties": {
+        "@id": "way/24481699",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle José Luis Albareda",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.75",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.75",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.75",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8842534,
+            41.6489266
+          ],
+          [
+            -0.884442,
+            41.6490361
+          ],
+          [
+            -0.8849071,
+            41.6493063
+          ],
+          [
+            -0.8853565,
+            41.6495683
+          ],
+          [
+            -0.8854027,
+            41.6495953
+          ],
+          [
+            -0.8854689,
+            41.6496342
+          ],
+          [
+            -0.8867841,
+            41.6504068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24492866",
+      "properties": {
+        "@id": "way/24492866",
+        "highway": "residential",
+        "kerb": "lowered",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Calle de Félix Latassa",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.2",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.2",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.2",
+        "source": "survey",
+        "source:date": "09-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8945471,
+            41.6401245
+          ],
+          [
+            -0.8944673,
+            41.6402106
+          ],
+          [
+            -0.894159,
+            41.6405429
+          ],
+          [
+            -0.8940879,
+            41.6406195
+          ],
+          [
+            -0.8939684,
+            41.6407537
+          ],
+          [
+            -0.8938437,
+            41.640892
+          ],
+          [
+            -0.8937709,
+            41.6409701
+          ],
+          [
+            -0.8932563,
+            41.6415287
+          ],
+          [
+            -0.8932203,
+            41.6415677
+          ],
+          [
+            -0.8931726,
+            41.6416195
+          ],
+          [
+            -0.8922296,
+            41.6426443
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24700377",
+      "properties": {
+        "@id": "way/24700377",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Don Juan de Aragón",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.2",
+        "source": "sourvey",
+        "source:date": "20-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8741681,
+            41.6530196
+          ],
+          [
+            -0.8743418,
+            41.6530658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24700395",
+      "properties": {
+        "@id": "way/24700395",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Galo Ponte",
+        "note": "#Zaccesibilidad",
+        "oneway": "no",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "paving_stones",
+        "sidewalk:both:width": "1",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:left:width": "1",
+        "sidewalk:right:surface": "paving_stones",
+        "sidewalk:right:width": "1",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8834632,
+            41.6537485
+          ],
+          [
+            -0.8834336,
+            41.6537727
+          ],
+          [
+            -0.8827898,
+            41.6542991
+          ],
+          [
+            -0.8825899,
+            41.6544872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24700430",
+      "properties": {
+        "@id": "way/24700430",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle San Juan y San Pedro",
+        "note": "#Zaccesibilidad",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.6",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.6",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.6",
+        "source": "survey",
+        "source:date": "18-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8776025,
+            41.6534371
+          ],
+          [
+            -0.8769609,
+            41.6531167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24700431",
+      "properties": {
+        "@id": "way/24700431",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de San Lorenzo",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "2.3",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "2.3",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "2.3",
+        "source": "survey",
+        "source:date": "18-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8766019,
+            41.6527413
+          ],
+          [
+            -0.8762487,
+            41.6529112
+          ],
+          [
+            -0.8762066,
+            41.6529182
+          ],
+          [
+            -0.8761716,
+            41.65292
+          ],
+          [
+            -0.8761226,
+            41.6529104
+          ],
+          [
+            -0.8756293,
+            41.6526927
+          ],
+          [
+            -0.8755583,
+            41.6526614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24700436",
+      "properties": {
+        "@id": "way/24700436",
+        "highway": "pedestrian",
+        "kerb": "lowered",
+        "maxspeed": "10",
+        "name": "Calle de Torrellas",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.2",
+        "source": "sourvey",
+        "source:date": "20-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8731026,
+            41.6527593
+          ],
+          [
+            -0.873601,
+            41.6530215
+          ],
+          [
+            -0.8737767,
+            41.6530845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/24700440",
+      "properties": {
+        "@id": "way/24700440",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "10",
+        "name": "Calle de la Trinidad",
+        "note": "#Zaccesibilidad",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": ".8",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": ".8",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": ".8",
+        "source": "survey",
+        "source:date": "21-04-2016",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8726768,
+            41.6532338
+          ],
+          [
+            -0.8722238,
+            41.652979
+          ],
+          [
+            -0.8721721,
+            41.6529499
+          ],
+          [
+            -0.8720689,
+            41.6529067
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26261991",
+      "properties": {
+        "@id": "way/26261991",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "10",
+        "name": "Calle de San Miguel",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.1",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.1",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.1",
+        "source": "survey",
+        "source:date": "29-06-2016",
+        "tactile_paving": "incorrect",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8816799,
+            41.6513352
+          ],
+          [
+            -0.8814929,
+            41.6512546
+          ],
+          [
+            -0.8805002,
+            41.6509411
+          ],
+          [
+            -0.8804384,
+            41.6509216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26600244",
+      "properties": {
+        "@id": "way/26600244",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de Hermanos Ibarra",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.2",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.2",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.2",
+        "source": "survey",
+        "source:date": "29-06-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8770082,
+            41.6508013
+          ],
+          [
+            -0.8770214,
+            41.6507825
+          ],
+          [
+            -0.8775926,
+            41.6499678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/26600326",
+      "properties": {
+        "@id": "way/26600326",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de Josefa Amar y Borbón",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.1",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.1",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.1",
+        "source": "survey",
+        "source:date": "29-06-2016",
+        "tactile_paving": "incorrect",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8798546,
+            41.6517821
+          ],
+          [
+            -0.8798763,
+            41.651754
+          ],
+          [
+            -0.8799255,
+            41.6516901
+          ],
+          [
+            -0.8804206,
+            41.6509482
+          ],
+          [
+            -0.8804384,
+            41.6509216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30471896",
+      "properties": {
+        "@id": "way/30471896",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de la Torre Nueva",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "paving_stones",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "paving_stones",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "paving_stones",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8817059,
+            41.654685
+          ],
+          [
+            -0.8814596,
+            41.6545782
+          ],
+          [
+            -0.8814044,
+            41.6545553
+          ],
+          [
+            -0.8808551,
+            41.6543104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30745827",
+      "properties": {
+        "@id": "way/30745827",
+        "highway": "pedestrian",
+        "kerb": "lowered",
+        "maxspeed": "10",
+        "name": "Calle Pedro Liñán",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.2",
+        "source": "sourvey",
+        "source:date": "20-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8740116,
+            41.6535817
+          ],
+          [
+            -0.8744964,
+            41.653276
+          ],
+          [
+            -0.8745862,
+            41.6532196
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30745866",
+      "properties": {
+        "@id": "way/30745866",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Mayor",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "2.5",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "2.5",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "2.5",
+        "source": "survey",
+        "source:date": "18-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8752504,
+            41.6530032
+          ],
+          [
+            -0.8753247,
+            41.653041
+          ],
+          [
+            -0.8762965,
+            41.6535357
+          ],
+          [
+            -0.8763417,
+            41.6535587
+          ],
+          [
+            -0.8763973,
+            41.6535877
+          ],
+          [
+            -0.8769248,
+            41.6538636
+          ],
+          [
+            -0.8770178,
+            41.6539122
+          ],
+          [
+            -0.8774916,
+            41.6541723
+          ],
+          [
+            -0.87755,
+            41.6542043
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/30745867",
+      "properties": {
+        "@id": "way/30745867",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Pedro Ramírez",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "19-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.875033,
+            41.6523966
+          ],
+          [
+            -0.8747404,
+            41.6527395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/32086455",
+      "properties": {
+        "@id": "way/32086455",
+        "highway": "residential",
+        "kerb": "raised",
+        "maxspeed": "10",
+        "name": "Calle Torresecas",
+        "note": "#Zaccesibilidad",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "0.5",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "0.5",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "0.5",
+        "source": "survey",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.882362,
+            41.6541536
+          ],
+          [
+            -0.8826158,
+            41.6539196
+          ],
+          [
+            -0.8827613,
+            41.6537772
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/35879591",
+      "properties": {
+        "@id": "way/35879591",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Bilbao",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8848103,
+            41.6501859
+          ],
+          [
+            -0.884858,
+            41.6501303
+          ],
+          [
+            -0.8853518,
+            41.6496453
+          ],
+          [
+            -0.8854027,
+            41.6495953
+          ],
+          [
+            -0.8854435,
+            41.6495557
+          ],
+          [
+            -0.8859932,
+            41.6490224
+          ],
+          [
+            -0.8860232,
+            41.6489933
+          ],
+          [
+            -0.8860695,
+            41.6489494
+          ],
+          [
+            -0.8864936,
+            41.6485478
+          ],
+          [
+            -0.8865314,
+            41.6485188
+          ],
+          [
+            -0.8866562,
+            41.6484231
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40220903",
+      "properties": {
+        "@id": "way/40220903",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de Amado Laguna de Rins",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:width": "2.2",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.2",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.2",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8896473,
+            41.6465593
+          ],
+          [
+            -0.8895574,
+            41.6464967
+          ],
+          [
+            -0.8888682,
+            41.6460163
+          ],
+          [
+            -0.8887957,
+            41.6459658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/40220915",
+      "properties": {
+        "@id": "way/40220915",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de Castellví",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.25",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.25",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.25",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8895532,
+            41.6484743
+          ],
+          [
+            -0.8894972,
+            41.648427
+          ],
+          [
+            -0.8889802,
+            41.6479902
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/48390123",
+      "properties": {
+        "@id": "way/48390123",
+        "highway": "residential",
+        "kerb": "lowered",
+        "lanes": "2",
+        "maxspeed": "30",
+        "name": "Calle Poeta Marco Marcial",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.8",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.8",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8913053,
+            41.6449807
+          ],
+          [
+            -0.8913832,
+            41.645019
+          ],
+          [
+            -0.8919527,
+            41.6453147
+          ],
+          [
+            -0.892216,
+            41.6454546
+          ],
+          [
+            -0.8922787,
+            41.6454879
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49748650",
+      "properties": {
+        "@id": "way/49748650",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Marqués de Casa Jiménez",
+        "note": "#Zaccesibilidad",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8848103,
+            41.6501859
+          ],
+          [
+            -0.8847517,
+            41.6501499
+          ],
+          [
+            -0.8843216,
+            41.6498856
+          ],
+          [
+            -0.8843092,
+            41.649878
+          ],
+          [
+            -0.884294,
+            41.6498693
+          ],
+          [
+            -0.8838457,
+            41.6496143
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49748656",
+      "properties": {
+        "@id": "way/49748656",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Doctor Antonio Valcarreres",
+        "note": "#Zaccesibilidad",
+        "old_name": "Calle Capitán Portolés",
+        "oneway": "yes",
+        "sidewalk": "left",
+        "sidewalk:both:width": "2.5",
+        "sidewalk:left:surface": "tile",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8848805,
+            41.6509952
+          ],
+          [
+            -0.8848195,
+            41.6509952
+          ],
+          [
+            -0.8847832,
+            41.6509984
+          ],
+          [
+            -0.8847351,
+            41.6510119
+          ],
+          [
+            -0.8846927,
+            41.6510314
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/49748661",
+      "properties": {
+        "@id": "way/49748661",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Doctor Antonio Valcarreres",
+        "note": "#Zaccesibilidad",
+        "old_name": "Calle Capitán Portolés",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.25",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.25",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.25",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8858923,
+            41.651018
+          ],
+          [
+            -0.8854304,
+            41.6510006
+          ],
+          [
+            -0.8848805,
+            41.6509952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92887708",
+      "properties": {
+        "@id": "way/92887708",
+        "highway": "tertiary",
+        "kerb": "lowered",
+        "lanes": "1",
+        "name": "Calle Don Jaime I",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "3.85",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "3.85",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "3.85",
+        "source": "survey",
+        "source:date": "15-04-2016",
+        "wheelchair": "yes",
+        "wikipedia": "es:Calle Don Jaime I (Zaragoza)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8767798,
+            41.6551667
+          ],
+          [
+            -0.8769201,
+            41.6549945
+          ],
+          [
+            -0.8771583,
+            41.6547021
+          ],
+          [
+            -0.8772007,
+            41.65465
+          ],
+          [
+            -0.8773693,
+            41.6544349
+          ],
+          [
+            -0.8774913,
+            41.6542792
+          ],
+          [
+            -0.87755,
+            41.6542043
+          ],
+          [
+            -0.8779072,
+            41.6537903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/92891917",
+      "properties": {
+        "@id": "way/92891917",
+        "highway": "tertiary",
+        "kerb": "lowered",
+        "lanes": "1",
+        "name": "Calle Don Jaime I",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "3.85",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "3.85",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "3.85",
+        "source": "survey",
+        "source:date": "15-04-2016",
+        "wheelchair": "yes",
+        "wikipedia": "es:Calle Don Jaime I (Zaragoza)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8795317,
+            41.652356
+          ],
+          [
+            -0.8799878,
+            41.6520266
+          ],
+          [
+            -0.8800434,
+            41.6519864
+          ],
+          [
+            -0.8800675,
+            41.6519703
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117652330",
+      "properties": {
+        "@id": "way/117652330",
+        "highway": "tertiary",
+        "kerb": "lowered",
+        "lanes": "2",
+        "name": "Calle de Mariano Barbasán",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "4",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "4",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "4",
+        "source": "survey",
+        "source:date": "09-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8899753,
+            41.6408424
+          ],
+          [
+            -0.8900853,
+            41.6408611
+          ],
+          [
+            -0.8902202,
+            41.6408911
+          ],
+          [
+            -0.8902815,
+            41.6409089
+          ],
+          [
+            -0.8903355,
+            41.6409346
+          ],
+          [
+            -0.89037,
+            41.640959
+          ],
+          [
+            -0.8904061,
+            41.6409862
+          ],
+          [
+            -0.8904197,
+            41.6410097
+          ],
+          [
+            -0.8904504,
+            41.6410285
+          ],
+          [
+            -0.8905199,
+            41.6410949
+          ],
+          [
+            -0.8907025,
+            41.6413363
+          ],
+          [
+            -0.8909573,
+            41.6416512
+          ],
+          [
+            -0.8910448,
+            41.6417594
+          ],
+          [
+            -0.8912827,
+            41.6420851
+          ],
+          [
+            -0.8914087,
+            41.6422341
+          ],
+          [
+            -0.8914771,
+            41.642312
+          ],
+          [
+            -0.8915357,
+            41.6423704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/117916233",
+      "properties": {
+        "@id": "way/117916233",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Morería",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "2.25",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "2.25",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "2.25",
+        "source": "survey",
+        "source:date": "05-07-2015",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8838411,
+            41.6528153
+          ],
+          [
+            -0.8838766,
+            41.6528331
+          ],
+          [
+            -0.8843121,
+            41.65305
+          ],
+          [
+            -0.8843948,
+            41.6530912
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/148613805",
+      "properties": {
+        "@id": "way/148613805",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Tomás Zumalacárregui",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8898704,
+            41.6436284
+          ],
+          [
+            -0.8894874,
+            41.6435834
+          ],
+          [
+            -0.8887654,
+            41.643524
+          ],
+          [
+            -0.8882685,
+            41.6434815
+          ],
+          [
+            -0.8882121,
+            41.6434767
+          ],
+          [
+            -0.8881219,
+            41.6434694
+          ],
+          [
+            -0.8867927,
+            41.6433611
+          ],
+          [
+            -0.8867204,
+            41.6433552
+          ],
+          [
+            -0.8866478,
+            41.643349
+          ],
+          [
+            -0.8862112,
+            41.6433114
+          ],
+          [
+            -0.8861453,
+            41.6433057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/176959674",
+      "properties": {
+        "@id": "way/176959674",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Manifestación",
+        "note": "#Zaccesibilidad",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "2",
+        "source": "survey",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8812291,
+            41.6561215
+          ],
+          [
+            -0.8815467,
+            41.6562638
+          ],
+          [
+            -0.8815778,
+            41.6562777
+          ],
+          [
+            -0.8816792,
+            41.6563249
+          ],
+          [
+            -0.8818117,
+            41.6563869
+          ],
+          [
+            -0.8819338,
+            41.6564514
+          ],
+          [
+            -0.8820482,
+            41.6565137
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/186909512",
+      "properties": {
+        "@id": "way/186909512",
+        "highway": "residential",
+        "kerb": "lowered",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Calle Doctor Cerrada",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "tile",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "tile",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "tile",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "08-07-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8906283,
+            41.6454414
+          ],
+          [
+            -0.8905874,
+            41.6454871
+          ],
+          [
+            -0.8903225,
+            41.6457832
+          ],
+          [
+            -0.8902582,
+            41.6458551
+          ],
+          [
+            -0.8902055,
+            41.6459194
+          ],
+          [
+            -0.8899563,
+            41.6462236
+          ],
+          [
+            -0.8899202,
+            41.6462676
+          ],
+          [
+            -0.8898775,
+            41.6463133
+          ],
+          [
+            -0.8896793,
+            41.6465251
+          ],
+          [
+            -0.8896473,
+            41.6465593
+          ],
+          [
+            -0.8895961,
+            41.6466016
+          ],
+          [
+            -0.8895687,
+            41.6466237
+          ],
+          [
+            -0.8892591,
+            41.6468735
+          ],
+          [
+            -0.8890236,
+            41.64707
+          ],
+          [
+            -0.8887528,
+            41.6473126
+          ],
+          [
+            -0.888655,
+            41.6473942
+          ],
+          [
+            -0.8886167,
+            41.6474157
+          ],
+          [
+            -0.8885921,
+            41.6474337
+          ],
+          [
+            -0.8885535,
+            41.6474476
+          ],
+          [
+            -0.8882916,
+            41.6475418
+          ],
+          [
+            -0.8881823,
+            41.6475822
+          ],
+          [
+            -0.8878226,
+            41.6477151
+          ],
+          [
+            -0.8876183,
+            41.6477937
+          ],
+          [
+            -0.8875469,
+            41.647815
+          ],
+          [
+            -0.8875208,
+            41.6478208
+          ],
+          [
+            -0.8874965,
+            41.6478261
+          ],
+          [
+            -0.887419,
+            41.6478317
+          ],
+          [
+            -0.8867314,
+            41.6478556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226706108",
+      "properties": {
+        "@id": "way/226706108",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Don Juan de Aragón",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.2",
+        "source": "sourvey",
+        "source:date": "20-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8745862,
+            41.6532196
+          ],
+          [
+            -0.8748074,
+            41.6533582
+          ],
+          [
+            -0.8749007,
+            41.6534166
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/226706112",
+      "properties": {
+        "@id": "way/226706112",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Plaza Ignacio Jordán Asso",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.2",
+        "source": "sourvey",
+        "source:date": "20-04-2016",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8737767,
+            41.6530845
+          ],
+          [
+            -0.8739252,
+            41.6529345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/411323391",
+      "properties": {
+        "@id": "way/411323391",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Mayor",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.5",
+        "source": "sourvey",
+        "source:date": "20-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8747404,
+            41.6527395
+          ],
+          [
+            -0.8751667,
+            41.6529599
+          ],
+          [
+            -0.8752504,
+            41.6530032
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/411323432",
+      "properties": {
+        "@id": "way/411323432",
+        "highway": "residential",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle de San Lorenzo",
+        "note": "#Zaccesibilidad",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "1.5",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "1.5",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "1.5",
+        "source": "survey",
+        "source:date": "19-04-2016",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8755583,
+            41.6526614
+          ],
+          [
+            -0.8754692,
+            41.6526165
+          ],
+          [
+            -0.875033,
+            41.6523966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/422877508",
+      "properties": {
+        "@id": "way/422877508",
+        "highway": "living_street",
+        "kerb": "lowered",
+        "maxspeed": "30",
+        "name": "Calle Manifestación",
+        "note": "#Zaccesibilidad",
+        "sidewalk": "both",
+        "sidewalk:both:surface": "sett",
+        "sidewalk:both:width": "2",
+        "sidewalk:left:surface": "sett",
+        "sidewalk:left:width": "2",
+        "sidewalk:right:surface": "sett",
+        "sidewalk:right:width": "2",
+        "source": "survey",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8820482,
+            41.6565137
+          ],
+          [
+            -0.8820847,
+            41.6565341
+          ],
+          [
+            -0.8821607,
+            41.6565779
+          ]
+        ]
+      }
+    }
+  ]
+}

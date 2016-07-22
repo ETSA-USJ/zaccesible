@@ -1,0 +1,413 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-07-15T17:39:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/371662299",
+      "properties": {
+        "@id": "way/371662299",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.886323,
+            41.6315932
+          ],
+          [
+            -0.8862794,
+            41.6315338
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420305762",
+      "properties": {
+        "@id": "way/420305762",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8802691,
+            41.6567954
+          ],
+          [
+            -0.8802131,
+            41.6568145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420305763",
+      "properties": {
+        "@id": "way/420305763",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8802854,
+            41.6569336
+          ],
+          [
+            -0.8802712,
+            41.6568886
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420305764",
+      "properties": {
+        "@id": "way/420305764",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8802556,
+            41.656977
+          ],
+          [
+            -0.8802556,
+            41.6570194
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420305765",
+      "properties": {
+        "@id": "way/420305765",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.8802181,
+            41.657049
+          ],
+          [
+            -0.8802088,
+            41.6570824
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041159",
+      "properties": {
+        "@id": "node/1607041159",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8830543,
+          41.6687968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486906",
+      "properties": {
+        "@id": "node/1614486906",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8820758,
+          41.6675021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486908",
+      "properties": {
+        "@id": "node/1614486908",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8819859,
+          41.6675735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486909",
+      "properties": {
+        "@id": "node/1614486909",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8820695,
+          41.6675739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486910",
+      "properties": {
+        "@id": "node/1614486910",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.882151,
+          41.6675742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486911",
+      "properties": {
+        "@id": "node/1614486911",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8820678,
+          41.6676094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486912",
+      "properties": {
+        "@id": "node/1614486912",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8819853,
+          41.6676101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1614486913",
+      "properties": {
+        "@id": "node/1614486913",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8821507,
+          41.6676115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1938482252",
+      "properties": {
+        "@id": "node/1938482252",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9209998,
+          41.6303556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630447",
+      "properties": {
+        "@id": "node/1939630447",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838824,
+          41.6467702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630454",
+      "properties": {
+        "@id": "node/1939630454",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838377,
+          41.6467808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630458",
+      "properties": {
+        "@id": "node/1939630458",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838956,
+          41.6467869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630485",
+      "properties": {
+        "@id": "node/1939630485",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8837819,
+          41.6468392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630487",
+      "properties": {
+        "@id": "node/1939630487",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838012,
+          41.6468582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630489",
+      "properties": {
+        "@id": "node/1939630489",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838245,
+          41.6468824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630490",
+      "properties": {
+        "@id": "node/1939630490",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8838438,
+          41.6469074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1939630494",
+      "properties": {
+        "@id": "node/1939630494",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8840239,
+          41.6469905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3914699493",
+      "properties": {
+        "@id": "node/3914699493",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9482798,
+          41.639491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3914699494",
+      "properties": {
+        "@id": "node/3914699494",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9483286,
+          41.6394425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4172780257",
+      "properties": {
+        "@id": "node/4172780257",
+        "amenity": "bench"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8863084,
+          41.6559091
+        ]
+      }
+    }
+  ]
+}

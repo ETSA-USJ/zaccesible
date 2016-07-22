@@ -1,0 +1,2408 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-07-09T13:42:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "relation/1666044",
+      "properties": {
+        "@id": "relation/1666044",
+        "amenity": "university",
+        "building": "yes",
+        "name": "Colegio Mayor Universitario Pedro Cerbuna",
+        "source": "bing",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "wikipedia": "es:Colegio Mayor Universitario Pedro Cerbuna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9013217,
+              41.641586
+            ],
+            [
+              -0.9012417,
+              41.6416715
+            ],
+            [
+              -0.9019256,
+              41.6420293
+            ],
+            [
+              -0.9024101,
+              41.641512
+            ],
+            [
+              -0.9021566,
+              41.6413794
+            ],
+            [
+              -0.9023784,
+              41.6411426
+            ],
+            [
+              -0.9019795,
+              41.640934
+            ],
+            [
+              -0.9017549,
+              41.6411738
+            ],
+            [
+              -0.9017161,
+              41.6411535
+            ],
+            [
+              -0.9016742,
+              41.6411982
+            ],
+            [
+              -0.9016356,
+              41.6412394
+            ],
+            [
+              -0.9016745,
+              41.6412598
+            ],
+            [
+              -0.9015011,
+              41.6414448
+            ],
+            [
+              -0.9016468,
+              41.641521
+            ],
+            [
+              -0.9018178,
+              41.6413384
+            ],
+            [
+              -0.9022031,
+              41.64154
+            ],
+            [
+              -0.9018843,
+              41.6418803
+            ],
+            [
+              -0.901372,
+              41.6416123
+            ],
+            [
+              -0.9013217,
+              41.641586
+            ]
+          ],
+          [
+            [
+              -0.9020619,
+              41.6413277
+            ],
+            [
+              -0.9018965,
+              41.6412429
+            ],
+            [
+              -0.9019833,
+              41.6411482
+            ],
+            [
+              -0.9020507,
+              41.6411827
+            ],
+            [
+              -0.9020692,
+              41.6411625
+            ],
+            [
+              -0.9021674,
+              41.6412127
+            ],
+            [
+              -0.9020619,
+              41.6413277
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "relation/5519087",
+      "properties": {
+        "@id": "relation/5519087",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "20",
+        "addr:postcode": "50012",
+        "addr:street": "Paseo Reyes de Aragón",
+        "amenity": "school",
+        "name": "IES Virgen del Pilar",
+        "type": "multipolygon",
+        "website": "http://iesvp.educa.aragon.es",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9058326,
+              41.6249721
+            ],
+            [
+              -0.9056097,
+              41.6250179
+            ],
+            [
+              -0.9055264,
+              41.6250356
+            ],
+            [
+              -0.9055401,
+              41.6250709
+            ],
+            [
+              -0.9055008,
+              41.6251246
+            ],
+            [
+              -0.9054736,
+              41.6251838
+            ],
+            [
+              -0.9054595,
+              41.6252394
+            ],
+            [
+              -0.9054565,
+              41.6252957
+            ],
+            [
+              -0.9054647,
+              41.6253691
+            ],
+            [
+              -0.905488,
+              41.6254274
+            ],
+            [
+              -0.9051815,
+              41.6254922
+            ],
+            [
+              -0.9051,
+              41.6255676
+            ],
+            [
+              -0.9050846,
+              41.6255768
+            ],
+            [
+              -0.9050358,
+              41.6256403
+            ],
+            [
+              -0.9049373,
+              41.6257848
+            ],
+            [
+              -0.9048726,
+              41.6259717
+            ],
+            [
+              -0.9048158,
+              41.6260334
+            ],
+            [
+              -0.9047532,
+              41.6260838
+            ],
+            [
+              -0.9047096,
+              41.6261291
+            ],
+            [
+              -0.904673,
+              41.626223
+            ],
+            [
+              -0.9047228,
+              41.6262616
+            ],
+            [
+              -0.9049973,
+              41.6263951
+            ],
+            [
+              -0.9052356,
+              41.6264613
+            ],
+            [
+              -0.905991,
+              41.6263037
+            ],
+            [
+              -0.9059976,
+              41.626318
+            ],
+            [
+              -0.906037,
+              41.62631
+            ],
+            [
+              -0.9069846,
+              41.626113
+            ],
+            [
+              -0.9070242,
+              41.6261047
+            ],
+            [
+              -0.9069971,
+              41.6260097
+            ],
+            [
+              -0.9069509,
+              41.6260195
+            ],
+            [
+              -0.9069352,
+              41.6259785
+            ],
+            [
+              -0.9069197,
+              41.6259353
+            ],
+            [
+              -0.9068889,
+              41.6258494
+            ],
+            [
+              -0.906874,
+              41.6258084
+            ],
+            [
+              -0.9069334,
+              41.6257965
+            ],
+            [
+              -0.9067802,
+              41.6253707
+            ],
+            [
+              -0.9066829,
+              41.6253915
+            ],
+            [
+              -0.9066225,
+              41.625225
+            ],
+            [
+              -0.9066342,
+              41.6252228
+            ],
+            [
+              -0.9065795,
+              41.6250717
+            ],
+            [
+              -0.9064161,
+              41.6251045
+            ],
+            [
+              -0.9064228,
+              41.625123
+            ],
+            [
+              -0.9064268,
+              41.6251342
+            ],
+            [
+              -0.9064317,
+              41.6251477
+            ],
+            [
+              -0.9063619,
+              41.6251618
+            ],
+            [
+              -0.9062932,
+              41.6251755
+            ],
+            [
+              -0.9062903,
+              41.6251761
+            ],
+            [
+              -0.9062739,
+              41.6251308
+            ],
+            [
+              -0.9062599,
+              41.625092
+            ],
+            [
+              -0.9062236,
+              41.6249908
+            ],
+            [
+              -0.9063281,
+              41.6249698
+            ],
+            [
+              -0.9063496,
+              41.6250297
+            ],
+            [
+              -0.906572,
+              41.624985
+            ],
+            [
+              -0.9065454,
+              41.6249143
+            ],
+            [
+              -0.9065357,
+              41.6248881
+            ],
+            [
+              -0.906526,
+              41.624862
+            ],
+            [
+              -0.9065161,
+              41.6248355
+            ],
+            [
+              -0.9058326,
+              41.6249721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/420302453",
+      "properties": {
+        "@id": "way/420302453",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "s/n",
+        "addr:postcode": "50003",
+        "addr:street": "Plaza del Pilar",
+        "amenity": "parking",
+        "fee": "yes",
+        "layer": "-2",
+        "name": "Plaza del Pilar - Juzgados",
+        "opening_hours": "24/7",
+        "operator": "Indigo",
+        "parking": "underground",
+        "phone": "976 20 01 39",
+        "supervised": "yes",
+        "website": "http://www.vincipark.es/parkings/ficha.php?id=26",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8806765,
+              41.6569326
+            ],
+            [
+              -0.8806938,
+              41.6569125
+            ],
+            [
+              -0.8807085,
+              41.6568938
+            ],
+            [
+              -0.8802631,
+              41.6567023
+            ],
+            [
+              -0.8802354,
+              41.6567359
+            ],
+            [
+              -0.8797546,
+              41.6565293
+            ],
+            [
+              -0.8795646,
+              41.656777
+            ],
+            [
+              -0.8795859,
+              41.6567867
+            ],
+            [
+              -0.8796091,
+              41.6567973
+            ],
+            [
+              -0.8800394,
+              41.6569832
+            ],
+            [
+              -0.8800095,
+              41.6570227
+            ],
+            [
+              -0.8804583,
+              41.6572167
+            ],
+            [
+              -0.8806765,
+              41.6569326
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/249759878",
+      "properties": {
+        "@id": "node/249759878",
+        "addr:housenumber": "41-43",
+        "addr:postcode": "50009",
+        "addr:street": "Avenida de Juan Carlos I",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Hernández Vitoria, Luis",
+        "phone": "+34  976 562176",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9080181,
+          41.6393821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/252658099",
+      "properties": {
+        "@id": "node/252658099",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Gran Casa",
+        "parking": "underground",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8906219,
+          41.6710068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/340027071",
+      "properties": {
+        "@id": "node/340027071",
+        "amenity": "parking_entrance",
+        "parking": "underground",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8778877,
+          41.6561961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410460741",
+      "properties": {
+        "@id": "node/410460741",
+        "amenity": "cinema",
+        "layer": "1",
+        "name": "Cinesa Grancasa",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8903267,
+          41.6705747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/410460742",
+      "properties": {
+        "@id": "node/410460742",
+        "amenity": "cinema",
+        "name": "Palafox",
+        "url": "http://www.cinespalafox.com/",
+        "wheelchair": "yes",
+        "wheelchair:description:en": "There is a lift for access to the cinema whose exclusive use is for wheelchairs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8825388,
+          41.6508967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/419765013",
+      "properties": {
+        "@id": "node/419765013",
+        "amenity": "cafe",
+        "name": "Ágora",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8762937,
+          41.6467821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/614662848",
+      "properties": {
+        "@id": "node/614662848",
+        "amenity": "parking",
+        "name": "Centro Comercial Aragonia",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9090173,
+          41.6401294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/651124691",
+      "properties": {
+        "@id": "node/651124691",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "1",
+        "addr:postcode": "50003",
+        "addr:street": "Plaza de Nuestra Señora del Pilar",
+        "amenity": "courthouse",
+        "name": "Juzgados",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8807967,
+          41.656849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/679413269",
+      "properties": {
+        "@id": "node/679413269",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "25",
+        "addr:postcode": "50009",
+        "addr:street": "Avenida del Alcalde Gómez Laguna",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "La Antilla - Aragonia",
+        "opening_hours": "De Lunes a Sábado de 7.30h a 1h Domingos y Festivos de 8h a 1h",
+        "phone": "976 757.181",
+        "smoking": "no",
+        "toilets:wheelchair": "no",
+        "website": "http://www.laantilla.es/antilla3.aspx",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9099098,
+          41.6415892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/698084112",
+      "properties": {
+        "@id": "node/698084112",
+        "addr:housenumber": "18",
+        "addr:postcode": "50018",
+        "addr:street": "Calle del Poeta Jorge Manrique",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Novella García, José",
+        "phone": "+34  976 510703",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8851737,
+          41.6683689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/717885428",
+      "properties": {
+        "@id": "node/717885428",
+        "amenity": "pub",
+        "name": "Canterbury Tavern Actur",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8889888,
+          41.6702083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/759470843",
+      "properties": {
+        "@id": "node/759470843",
+        "amenity": "bar",
+        "name": "Luna Morena",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8910098,
+          41.6634462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/869991304",
+      "properties": {
+        "@id": "node/869991304",
+        "amenity": "cafe",
+        "indoor": "yes",
+        "name": "Cafetería Edificio Ada Byron",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8886399,
+          41.6836834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/970523781",
+      "properties": {
+        "@id": "node/970523781",
+        "amenity": "bicycle_rental",
+        "operator": "Bizi",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8836458,
+          41.6641248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1146297567",
+      "properties": {
+        "@id": "node/1146297567",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "catholic",
+        "name": "Santa Mónica",
+        "religion": "christian",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9055888,
+          41.6366868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1267575581",
+      "properties": {
+        "@id": "node/1267575581",
+        "amenity": "fast_food",
+        "operator": "McDonald's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8901261,
+          41.676043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1267576322",
+      "properties": {
+        "@id": "node/1267576322",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Gran Casa",
+        "parking": "underground",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8891414,
+          41.6696495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1267576579",
+      "properties": {
+        "@id": "node/1267576579",
+        "amenity": "parking",
+        "fee": "yes",
+        "name": "Gran Casa",
+        "parking": "underground",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8906142,
+          41.6718503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1273425525",
+      "properties": {
+        "@id": "node/1273425525",
+        "amenity": "bicycle_rental",
+        "operator": "Bizi",
+        "ref:Bizi": "33",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8780333,
+          41.6555406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1273425552",
+      "properties": {
+        "@id": "node/1273425552",
+        "amenity": "bicycle_rental",
+        "operator": "Bizi",
+        "ref:Bizi": "9",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8754429,
+          41.6559784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1331379710",
+      "properties": {
+        "@id": "node/1331379710",
+        "addr:housenumber": "10",
+        "addr:street": "Eduardo Ibarra",
+        "amenity": "restaurant",
+        "name": "Restaurante Rogelios",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=179",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9041246,
+          41.6367694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1404938311",
+      "properties": {
+        "@id": "node/1404938311",
+        "amenity": "bar",
+        "name": "Le Pastis",
+        "wheelchair": "designated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8690215,
+          41.6560413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1414693676",
+      "properties": {
+        "@id": "node/1414693676",
+        "addr:housenumber": "53",
+        "addr:street": "Avda. G. Gómez Avellaneda",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Telepizza",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=13187",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8911277,
+          41.6707768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1420695345",
+      "properties": {
+        "@id": "node/1420695345",
+        "addr:housename": "ZARAGOZA URB.99 - VALDESPARTERA II",
+        "addr:housenumber": "33",
+        "addr:postcode": "50019",
+        "addr:street": "PASEO DE LOS OLVIDADOS",
+        "amenity": "bank",
+        "atm": "yes",
+        "atm:network": "Euro 6000",
+        "name": "IberCaja",
+        "operator": "Ibercaja",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9209684,
+          41.6200556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432557664",
+      "properties": {
+        "@id": "node/1432557664",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8785246,
+          41.6562789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1432557665",
+      "properties": {
+        "@id": "node/1432557665",
+        "amenity": "drinking_water",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.879914,
+          41.656868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1532742688",
+      "properties": {
+        "@id": "node/1532742688",
+        "addr:housenumber": "31",
+        "addr:street": "Jorge Guillen",
+        "amenity": "restaurant",
+        "name": "Archette",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=15341",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8835562,
+          41.6686865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1532742743",
+      "properties": {
+        "@id": "node/1532742743",
+        "amenity": "pub",
+        "name": "100 Montaditos",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8889702,
+          41.6706937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041078",
+      "properties": {
+        "@id": "node/1607041078",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "CAI",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8857769,
+          41.6703868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041081",
+      "properties": {
+        "@id": "node/1607041081",
+        "amenity": "pub",
+        "name": "Café Bar Los Poetas",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8844329,
+          41.6686967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041097",
+      "properties": {
+        "@id": "node/1607041097",
+        "amenity": "pub",
+        "name": "Cervecería Neruda",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8840862,
+          41.6699741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041118",
+      "properties": {
+        "@id": "node/1607041118",
+        "amenity": "pub",
+        "name": "Hook",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8889634,
+          41.6726394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041184",
+      "properties": {
+        "@id": "node/1607041184",
+        "addr:housenumber": "41",
+        "addr:street": "Avenida Gertrudis Gómez de Avellaneda",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Domino's pizza",
+        "operator": "Domino's Pizza",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23138",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8906661,
+          41.669441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041187",
+      "properties": {
+        "@id": "node/1607041187",
+        "addr:housenumber": "2",
+        "addr:street": "Pablo Casals",
+        "amenity": "restaurant",
+        "name": "La Mafia se sienta a la mesa",
+        "operator": "La Mafia",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=2332",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8884189,
+          41.6694401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041201",
+      "properties": {
+        "@id": "node/1607041201",
+        "FIXME": "name",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "11",
+        "addr:postcode": "50018",
+        "addr:street": "Poeta Pablo Neruda",
+        "amenity": "pharmacy",
+        "name": "Farmacia Lorca",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8871008,
+          41.6698838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1607041287",
+      "properties": {
+        "@id": "node/1607041287",
+        "addr:city": "Zaragoza",
+        "addr:country": "ES",
+        "addr:housenumber": "32",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "bank",
+        "atm:network": "Telebanco 4B",
+        "atm:operator": "Banco Santander",
+        "name": "Santander",
+        "network": "4B",
+        "operator": "Banco Santander",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8891141,
+          41.6712304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613471601",
+      "properties": {
+        "@id": "node/1613471601",
+        "amenity": "pub",
+        "name": "Bar Venus",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8853195,
+          41.6680024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613471631",
+      "properties": {
+        "@id": "node/1613471631",
+        "amenity": "pub",
+        "name": "El Abuelo",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8863028,
+          41.667856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613471633",
+      "properties": {
+        "@id": "node/1613471633",
+        "addr:housenumber": "21",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "restaurant",
+        "cuisine": "mediterranean",
+        "name": "El Allar",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=1820",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8872885,
+          41.6675455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613471788",
+      "properties": {
+        "@id": "node/1613471788",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "1",
+        "addr:postcode": "50018",
+        "addr:street": "Calle Poeta León Felipe",
+        "amenity": "restaurant",
+        "cuisine": "noodle",
+        "name": "Sakura Teppan Yaki",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8865244,
+          41.6678565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1613471859",
+      "properties": {
+        "@id": "node/1613471859",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "1",
+        "addr:postcode": "50018",
+        "addr:street": "León Felipe",
+        "amenity": "bank",
+        "atm": "yes",
+        "atm:network": "Euro 6000",
+        "name": "IberCaja",
+        "operator": "IberCaja",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8867641,
+          41.6678652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1672239995",
+      "properties": {
+        "@id": "node/1672239995",
+        "addr:housenumber": "78",
+        "addr:street": "Camino las torres",
+        "amenity": "restaurant",
+        "cuisine": "spanish",
+        "name": "El Europeo",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.882744,
+          41.6421144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787990789",
+      "properties": {
+        "@id": "node/1787990789",
+        "addr:housenumber": "35",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "restaurant",
+        "indoor": "yes",
+        "name": "Bodega Jorge y Quevedo",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=2285",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8894434,
+          41.6696501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787990791",
+      "properties": {
+        "@id": "node/1787990791",
+        "addr:housenumber": "35 - CC Grancasa, local 2. 13",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "restaurant",
+        "indoor": "yes",
+        "name": "Lizarrán",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23142",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.889943,
+          41.6698672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787990792",
+      "properties": {
+        "@id": "node/1787990792",
+        "addr:housenumber": "71. C.C. Grancasa",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "indoor": "yes",
+        "name": "McDonald's",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.889551,
+          41.669101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787990795",
+      "properties": {
+        "@id": "node/1787990795",
+        "addr:housenumber": "35. Grancasa, local 242-C",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "fast_food",
+        "indoor": "yes",
+        "name": "Turkuaz",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=15635",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8891749,
+          41.6692415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787992444",
+      "properties": {
+        "@id": "node/1787992444",
+        "addr:housenumber": "24",
+        "addr:street": "Calle Clara Campoamor",
+        "amenity": "restaurant",
+        "name": "Asador la carrasca",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=1771",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8926386,
+          41.6677529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787992447",
+      "properties": {
+        "@id": "node/1787992447",
+        "addr:housenumber": "2",
+        "addr:street": "Calle Pablo Casals",
+        "amenity": "restaurant",
+        "name": "La Mostaza",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=16481",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8884217,
+          41.6696256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1787992448",
+      "properties": {
+        "@id": "node/1787992448",
+        "addr:housenumber": "17-19",
+        "addr:street": "Calle Clara Campoamor",
+        "amenity": "restaurant",
+        "name": "La Tagliatella",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23229",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8925857,
+          41.6672787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788000857",
+      "properties": {
+        "@id": "node/1788000857",
+        "addr:housenumber": "36",
+        "addr:street": "Ildefonso Manuel Gil",
+        "amenity": "restaurant",
+        "name": "Sentinel",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23111",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8841462,
+          41.6713198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788001251",
+      "properties": {
+        "@id": "node/1788001251",
+        "addr:housenumber": "25",
+        "addr:street": "Avenida de Pablo Ruiz Picasso",
+        "amenity": "restaurant",
+        "name": "Manolete",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=2120",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8873022,
+          41.6733736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788004902",
+      "properties": {
+        "@id": "node/1788004902",
+        "addr:city": "Zaragoza",
+        "addr:housename": "C. C. Grancasa",
+        "addr:housenumber": "35 local 24-27-28",
+        "addr:postcode": "50018",
+        "addr:street": "Avda. G. Gomez Avellaneda",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger king",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=12997",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8899785,
+          41.6700311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788004906",
+      "properties": {
+        "@id": "node/1788004906",
+        "addr:housenumber": "16",
+        "addr:street": "Calle de Mariana Pineda",
+        "amenity": "restaurant",
+        "name": "Girasol",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23199",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8889368,
+          41.6654329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788004907",
+      "properties": {
+        "@id": "node/1788004907",
+        "addr:housenumber": "4",
+        "addr:street": "Calle de Mariana Pineda",
+        "amenity": "restaurant",
+        "name": "Trébole",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=1888",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8876673,
+          41.6659112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788004908",
+      "properties": {
+        "@id": "node/1788004908",
+        "addr:housenumber": "25",
+        "addr:street": "Avda. G. Gómez Avellaneda",
+        "amenity": "restaurant",
+        "name": "Víctor",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=2123",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8890591,
+          41.6676995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788007402",
+      "properties": {
+        "@id": "node/1788007402",
+        "addr:housenumber": "55",
+        "addr:street": "Avenida de Gertrudis Gómez de Avellaneda",
+        "amenity": "restaurant",
+        "name": "La Trufa",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=1914",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.891211,
+          41.6714267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788604601",
+      "properties": {
+        "@id": "node/1788604601",
+        "addr:housenumber": "24",
+        "addr:street": "Violeta Parra",
+        "amenity": "restaurant",
+        "name": "El Pasticcio",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=2331",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8780023,
+          41.670204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788784619",
+      "properties": {
+        "@id": "node/1788784619",
+        "addr:housenumber": "44",
+        "addr:street": "Avenida Juan Carlos I de Borbón",
+        "amenity": "restaurant",
+        "name": "Wok dinasty",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23269",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9090344,
+          41.6398277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788784652",
+      "properties": {
+        "@id": "node/1788784652",
+        "addr:housenumber": "11",
+        "addr:street": "Asin y Palacios",
+        "amenity": "restaurant",
+        "name": "La Romareda",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=16337",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.903488,
+          41.6379251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1788784658",
+      "properties": {
+        "@id": "node/1788784658",
+        "addr:housenumber": "45",
+        "addr:street": "Avenida Juan Carlos I de Borbón",
+        "amenity": "restaurant",
+        "name": "El Templo",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=23171",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9080678,
+          41.6399725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1789919551",
+      "properties": {
+        "@id": "node/1789919551",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "4",
+        "addr:postcode": "50006",
+        "addr:street": "Calle Agustín de Quinto",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "name": "Kuky's Place",
+        "opening_hours": "12:30-23:30",
+        "source": "survey",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair_toilet": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8934256,
+          41.6396987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792256894",
+      "properties": {
+        "@id": "node/1792256894",
+        "addr:housenumber": "3",
+        "addr:street": "Paseo Sagasta",
+        "amenity": "restaurant",
+        "name": "Cafeterías El Corte Inglés",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=16060",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8851361,
+          41.6451911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792256899",
+      "properties": {
+        "@id": "node/1792256899",
+        "addr:housenumber": "35",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "restaurant",
+        "name": "Cafeterías El Corte Inglés",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "http://www.zaragoza.es/ciudad/turismo/es/organiza-viaje/detalle_Restaurante?id=16060",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.890061,
+          41.6719234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792486144",
+      "properties": {
+        "@id": "node/1792486144",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "50015",
+        "addr:street": "Avenida Salvador Allende",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Arévalo García Royo Palacios",
+        "phone": "+34  976 521038",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8771746,
+          41.6677031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792486159",
+      "properties": {
+        "@id": "node/1792486159",
+        "addr:housenumber": "10",
+        "addr:postcode": "50015",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Asensi Serrano, Rosa María",
+        "phone": "+34 976 523864",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8841554,
+          41.6650712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792486347",
+      "properties": {
+        "@id": "node/1792486347",
+        "addr:housenumber": "69",
+        "addr:postcode": "50013",
+        "addr:street": "Calle Miguel Servet",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Blasco Nogues, Manuel Ramón",
+        "phone": "+34 976 413781",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8687076,
+          41.6428262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792486629",
+      "properties": {
+        "@id": "node/1792486629",
+        "addr:housenumber": "28",
+        "addr:postcode": "50018",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Colas Izquierdo, Ana",
+        "phone": "+34 976 737874",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8891629,
+          41.6711238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792487598",
+      "properties": {
+        "@id": "node/1792487598",
+        "addr:housenumber": "18",
+        "addr:postcode": "50018",
+        "addr:street": "Calle de Francisco Martinez Soria",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Sanchis Gaya, Consuelo María",
+        "phone": "+34  976 743466",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8862364,
+          41.66261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792487634",
+      "properties": {
+        "@id": "node/1792487634",
+        "addr:housenumber": "26",
+        "addr:postcode": "50018",
+        "addr:street": "Calle Poeta Pablo Neruda",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Senante Perdiguer, Fernando",
+        "phone": "+34  976 734608",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8839295,
+          41.6700133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1792487699",
+      "properties": {
+        "@id": "node/1792487699",
+        "addr:housenumber": "43-51",
+        "addr:postcode": "50018",
+        "addr:street": "Avenida de Gertrudis Gómez de Avellaneda",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Vallejo Calvo, Maria de la Peña",
+        "phone": "+34 976 731561",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8909026,
+          41.6698008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1797598375",
+      "properties": {
+        "@id": "node/1797598375",
+        "addr:housenumber": "35",
+        "addr:street": "Avenida Poetisa María Zambrano",
+        "amenity": "post_office",
+        "contact:fax": "+34 976 741 365",
+        "contact:phone": "+34 976 741 365",
+        "indoor": "yes",
+        "name": "Oficina de Correos Poetisa María Zambrano",
+        "operator": "Sociedad Estatal Correos y Telégrafos",
+        "ref:ayto_zaragoza": "recurso-9245",
+        "source": "Ayuntamiento de Zaragoza",
+        "source:date": "2012-03-30T07:11:39Z",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8900787,
+          41.6714893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1797667238",
+      "properties": {
+        "@id": "node/1797667238",
+        "addr:housenumber": "4",
+        "addr:street": "Calle de Valero J. Ripol Urbano",
+        "amenity": "school",
+        "contact:fax": "+34 976 513600",
+        "contact:phone": "+34 976 512111",
+        "name": "Colegio Publico Cortes de Aragon",
+        "ref:ayto_zaragoza": "recurso-558",
+        "source": "Ayuntamiento de Zaragoza",
+        "source:date": "2012-03-13T08:35:34Z",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8818033,
+          41.6654412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1797667459",
+      "properties": {
+        "@id": "node/1797667459",
+        "addr:housenumber": "17",
+        "addr:street": "Calle de Poeta Neruda Pablo ",
+        "amenity": "school",
+        "contact:phone": "+34 976520551 ",
+        "name": "Professional School Of English",
+        "ref:ayto_zaragoza": "recurso-112330",
+        "source": "Ayuntamiento de Zaragoza",
+        "source:date": "2011-11-11T10:48:27Z",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.885549,
+          41.6704278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1797725011",
+      "properties": {
+        "@id": "node/1797725011",
+        "addr:housenumber": "23",
+        "addr:street": "Gertrudis Gómez de Avellaneda",
+        "amenity": "arts_centre",
+        "contact:phone": "+34 976737610",
+        "name": "Galería de Arte y Academia de Dibujo y Pintura Badanes",
+        "ref:ayto_zaragoza": "recurso-13663",
+        "shop": "art",
+        "source": "Ayuntamiento de Zaragoza",
+        "source:date": "2011-11-11T10:48:27Z",
+        "tourism": "museum",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8890193,
+          41.6676106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1814087511",
+      "properties": {
+        "@id": "node/1814087511",
+        "amenity": "toilets",
+        "fee": "no",
+        "female": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9179244,
+          41.6292425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1814087518",
+      "properties": {
+        "@id": "node/1814087518",
+        "amenity": "toilets",
+        "fee": "no",
+        "male": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9179722,
+          41.629522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1820390867",
+      "properties": {
+        "@id": "node/1820390867",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "4",
+        "addr:postcode": "50007",
+        "addr:street": "Calle de Nuestra Señora de Sancho Abarca",
+        "amenity": "restaurant",
+        "cuisine": "barbecue;spanish;burger;regional",
+        "designation": "Bar Kaplan",
+        "name": "Kaplan",
+        "opening_hours": "Mo-Fr 09:00-16:00, 19:00-23:59; Sa 12:00-16:00, 19:00-23:59",
+        "phone": "+34 976 378 059",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.barkaplan.es",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8840078,
+          41.6404499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839587584",
+      "properties": {
+        "@id": "node/1839587584",
+        "amenity": "restaurant",
+        "cuisine": "sandwich",
+        "name": "Between",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8886372,
+          41.6722928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1839602439",
+      "properties": {
+        "@id": "node/1839602439",
+        "amenity": "bar",
+        "name": "Zipitoste",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8884006,
+          41.6707135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2117013095",
+      "properties": {
+        "@id": "node/2117013095",
+        "amenity": "hospital",
+        "name": "C.S. Actur Norte",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8864509,
+          41.6753079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2353661744",
+      "properties": {
+        "@id": "node/2353661744",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "19",
+        "addr:postcode": "50018",
+        "addr:street": "Calle Pablo Casals",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "La Minipizzería",
+        "opening_hours": "Mo-Th 08:00-00:00;Fr 08:00-02:00;Sa 09:00-02:00",
+        "phone": "+34 976 02 66 71",
+        "source": "Ayuntamiento de Zaragoza",
+        "website": "https://www.facebook.com/La.Minipizzeria",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.888759,
+          41.672158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2353808475",
+      "properties": {
+        "@id": "node/2353808475",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "4",
+        "addr:postcode": "50003",
+        "addr:street": "Calle de Jussepe Martínez",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Bar de Martino",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.880221,
+          41.654486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2353891127",
+      "properties": {
+        "@id": "node/2353891127",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "24",
+        "addr:place": "Centro de Día San Blas",
+        "addr:postcode": "50003",
+        "addr:street": "Calle San Blas",
+        "amenity": "nursing_home",
+        "name": "Centro de Día San Blas",
+        "note": "#Zaccesibilidad",
+        "operator": "Gobierno de Aragón",
+        "phone": "976 436 219",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.88488,
+          41.656212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2689501277",
+      "properties": {
+        "@id": "node/2689501277",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "12;14",
+        "addr:postcode": "50012",
+        "addr:street": "Calle de Federico Ozanam",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "name": "Cafetería Código 12",
+        "source": "Ayuntamiento de Zaragoza",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9313354,
+          41.6399215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3105216486",
+      "properties": {
+        "@id": "node/3105216486",
+        "amenity": "gym",
+        "leisure": "sports_centre",
+        "name": "Virgin Active",
+        "sport": "gymnastics",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9089361,
+          41.6396757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3207487428",
+      "properties": {
+        "@id": "node/3207487428",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "8",
+        "addr:postcode": "50018",
+        "addr:street": "Poeta Jorge Manrique",
+        "amenity": "bar",
+        "name": "Metro Goldwyn Tavern",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8864933,
+          41.66865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3207739880",
+      "properties": {
+        "@id": "node/3207739880",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "4",
+        "addr:postcode": "50018",
+        "addr:street": "Poeta Jorge Manrique",
+        "amenity": "veterinary",
+        "name": "Clínica Veterinaria Gavear",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8867918,
+          41.6688745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3215636151",
+      "properties": {
+        "@id": "node/3215636151",
+        "addr:city": "Zaragoza",
+        "addr:housenumber": "2",
+        "addr:postcode": "50018",
+        "addr:street": "Jorge Guillén",
+        "amenity": "restaurant",
+        "cuisine": "burger",
+        "name": "Hamburguesería Cebrián",
+        "website": "http://www.hamburgueseriacebrian.es/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8873256,
+          41.6683896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3748576833",
+      "properties": {
+        "@id": "node/3748576833",
+        "access": "public",
+        "amenity": "toilets",
+        "unisex": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8807793,
+          41.6572271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3773154227",
+      "properties": {
+        "@id": "node/3773154227",
+        "amenity": "bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8863474,
+          41.6686557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3798001824",
+      "properties": {
+        "@id": "node/3798001824",
+        "amenity": "restaurant",
+        "name": "Fran's Beer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8900077,
+          41.6694186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3798001825",
+      "properties": {
+        "@id": "node/3798001825",
+        "amenity": "bar",
+        "name": "Frutolandia",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8900926,
+          41.6701181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4121431100",
+      "properties": {
+        "@id": "node/4121431100",
+        "amenity": "bank",
+        "atm": "yes",
+        "atm:network": "Servired",
+        "operator": "Banco Sabadell",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8807708,
+          41.6545018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4121432591",
+      "properties": {
+        "@id": "node/4121432591",
+        "amenity": "bank",
+        "atm": "yes",
+        "operator": "Popular",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8814122,
+          41.6536765
+        ]
+      }
+    }
+  ]
+}
