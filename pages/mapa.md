@@ -9,9 +9,22 @@ Estamos trabajando en la confección de un mapa colaborativo sobre accesibilidad
 
 ## Mapa de discapacidad visual
 
+Este mapa consta de 4 capas:
+1. `Semáforos acústicos` muestra información de los cruces de peatones respecto a la existencia o no de semáforos acústicos. También se incluyen aquellos pasos de peatones que tienen semáforos pero no se especifica si son acústicos o no.
+1. `Pavimento táctil` muestra información sobre los cruces de peatones respecto a la existencia o no de pavimento táctil. También se incluyen aquellos pavimentos rugosos que, sin ser específicos para ese fin, pueden ayudar a personas con discapacidad visual (ejemplo: pavimentos rugosos con fines ornamentales, cambios de pavimento...) así como cruces de de peatones sin información al respecto.
+1. `Pavimento táctil lineal` muestra aquellas calles que tienen un pavimento táctil longitudinal.
+1. `Equipamientos y comercios`
+
 <iframe width="100%" height="520" frameborder="0" src="https://ccamara.carto.com/viz/472c495c-6238-4fb5-851e-93b844bc647c/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-## Mapa de discapcidad motriz
+## Mapa de discapacidad motriz
+
+Este mapa consta de tres capas:
+
+1. `Silla de ruedas (cruces)` refleja la accesibilidad en silla de ruedas en pasos de peatones en función de sus bordillos. También se han incorporado cruces de peatones existentes pero de los que no se dispone de información al respecto;
+1. `Silla de ruedas (calles)` muestra información sobre la accesibilidad en silla de ruedas en calles en función de su anchura, existencia o no de obstáculos, pendientes...;
+1. `Comercios y equipamientos` muestra información de comercios y equipamiento que cuentan con información de accesibilidad en silla de ruedas. La accesibilidad puede ser total (sí), parcial o inaccesible (no).
+1. `Rugosidad del pavimento` muestra información sobre la calidad del pavimento desde el punto de vista de facilitar o dificultar la movilidad en silla de ruedas. Más información sobre el criterio utilizado [en esta wiki de OSM (en inglés)](http://wiki.openstreetmap.org/wiki/Key:smoothness#Smoothnessh)
 
 <iframe width="100%" height="520" frameborder="0" src="https://ccamara.carto.com/viz/a11856af-f34f-4862-9607-0486ac106fa6/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
