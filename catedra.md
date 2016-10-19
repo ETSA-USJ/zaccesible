@@ -22,7 +22,7 @@ En el curso 2015-16, se inicia un tercer ciclo con el proyecto *[Zaragoza Accesi
 {% for member in site.data.members %}
   <li>
     <a href="{{ member.url }}">{{ member.name }}</a> <br>
-    <i>{{ member.job }}</i></br>
+    <i>{{ member.job }}</i>
   </li>
 {% endfor %}
 </ul>
@@ -33,7 +33,7 @@ En el curso 2015-16, se inicia un tercer ciclo con el proyecto *[Zaragoza Accesi
  {% for member in site.data.members-legacy %}
    <li>
      <a href="{{ member.url }}">{{ member.name }}</a> <br>
-     <i>{{ member.job }}</i></br>
+     <i>{{ member.job }}</i>
    </li>
  {% endfor %}
  </ul>
