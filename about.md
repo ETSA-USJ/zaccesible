@@ -51,7 +51,7 @@ El mapa en el que estamos trabajando tiene las siguientes características:
 {% for member in site.data.members %}
   <li>
     <a href="{{ member.url }}">{{ member.name }}</a> <br>
-    <i>{{ member.job }}</i></br>
+    <i>{{ member.job }}</i>
   </li>
 {% endfor %}
 </ul>
