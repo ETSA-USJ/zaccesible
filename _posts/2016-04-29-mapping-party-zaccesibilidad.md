@@ -13,7 +13,7 @@ tags:
 
 ![Mapping party at Camp Roberts](/media/mapping party-development seed.jpg)
 
-Durante los días 6, 7 y 9 de mayo tendrá lugar la primera *Mapping Party* dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la [cátedra Bantierra-Fundación Adecco](/catedra) de la [USJ](http://usj.es) y el grupo de trabajo *[Mapeado Colaborativo](mapeado-colaborativo-zac)* de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y a la que invitamos a todo el mundo a participar.
+Durante los días 6, 7 y 9 de mayo tendrá lugar la primera *Mapping Party* dedicada a la Accesibilidad en el barrio del Gancho, una iniciativa conjunta de la [cátedra Bantierra-Fundación Adecco](/catedra) de la [USJ](http://usj.es) y el grupo de trabajo *[Mapeado Colaborativo](http://zaccesible.usj.es/blog/2016/04/07/mapeado-colaborativo-zac.html)* de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y a la que invitamos a todo el mundo a participar.
 
 Una *Mapping Party* es un evento abierto a todo el mundo en el que voluntarios se reunen para mapear colaborativamente y de forma coordinada a través de la plataforma [OpenStreetMap](http://openstreetmap.org).
 
