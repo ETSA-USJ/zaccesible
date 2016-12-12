@@ -1,10 +1,14 @@
 ---
 layout: "post"
 title: "Día internacional de las personas con discapacidad y 2ª Mapping Party #zAccesibilidad"
-date: "2016-12-12 09:46"
+date: "2016-12-06 09:46"
 categories: blog
 comments: true
 author: Carlos Cámara
+tags:
+  - mapping-party
+  - eventos
+  - resultados
 ---
 
 ![Instrucciones previas a la Mapping Party]({{site.baseurl}}/media/photo_2016-12-09_09-52-50.jpg)
