@@ -11,9 +11,9 @@ El pasado día 5 de diciembre el [Heraldo de Aragón](http://heraldo.es/) se hiz
 
 A continuación tenéis las capturas de pantalla y los enlaces a las noticias correspondientes.
 
-![¿Y yo cómo llego a esa calle en mi silla de ruedas?]({{site.baseurl}}/Dossier-prensa-5-diciembre-01.png)
+![¿Y yo cómo llego a esa calle en mi silla de ruedas?]({{site.baseurl}}/media/Dossier-prensa-5-diciembre-01.png)
 
-![Mapeando la capital y otros actos solidarios en la Comunidad]({{site.baseurl}}/Dossier-prensa-5-diciembre-02.png)
+![Mapeando la capital y otros actos solidarios en la Comunidad]({{site.baseurl}}/media/Dossier-prensa-5-diciembre-02.png)
 
 Enlaces a las versiones digitales:
 
