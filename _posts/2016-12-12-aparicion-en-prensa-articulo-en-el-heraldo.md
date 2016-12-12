@@ -16,5 +16,6 @@ A continuación tenéis las capturas de pantalla y los enlaces a las noticias co
 ![Mapeando la capital y otros actos solidarios en la Comunidad]({{site.baseurl}}/Dossier-prensa-5-diciembre-02.png)
 
 Enlaces a las versiones digitales:
+
 * [¿Y yo cómo llego a esa calle en mi silla de ruedas?](http://www.heraldo.es/noticias/aragon/2016/12/04/y-como-llego-esa-calle-silla-ruedas-1146279-300.html)
 * [Mapeando la capital y otros actos solidarios en la Comunidad](http://www.heraldo.es/noticias/aragon/2016/12/04/mapeando-capital-actos-solidarios-comunidad-1146284-300.html)
