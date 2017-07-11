@@ -10,8 +10,8 @@ title: Zaragoza Accesible
 email: ccamara@usj.es
 description: > # this means to ignore newlines until "baseurl:"
   <b><a href="/about">Zaragoza Accesible</a></b> es un proyecto de mapeado colaborativo de
-  aspectos relacionados con la discapacidad y la movilidad desarrollado en el marco de la <b><a href="/catedra">cátedra Bantierra - Fundación Adecco</a></b> de la
-  <a href="http://etsa.usj.es">Escuela Técnica Superior de Arquitectura</a> de la
+  aspectos relacionados con la discapacidad y la movilidad desarrollado en el marco del grupo de investigación <i>Arquitecturas OpenSource</i> de la 
+  <a href="http://etsa.usj.es">Escuela de Arquitectura y Tecnología</a> de la
   <a href="http://usj.es">Universidad San Jorge</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://zaccesible.usj.es" # the base hostname & protocol for your site
