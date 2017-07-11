@@ -6,9 +6,9 @@ published: true
 ---
 
 **Zaragoza Accesible** es un proyecto de mapeado colaborativo de
-aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado en el marco de la **[cátedra Bantierra - Fundación Adecco](/catedra)** de la
-[Escuela Técnica Superior de Arquitectura](http://etsa.usj.es) de la
-[Universidad San Jorge](http://usj.es) y desarrollado gracias a la colaboración desinteresada de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y la comunidad de OpenStreetMap ([ver agradecimientos](#agradecimientos)).
+aspectos relacionados con la discapacidad y la movilidad en Zaragoza desarrollado desde el grupo de investigación Arquitecturas OpenSource de la
+[Escuela de Arquitectura y Tecnología](http://etsa.usj.es) de la
+[Universidad San Jorge](http://usj.es) y desarrollado originalmente (curso 2015-16) en el marco de la **[cátedra Bantierra - Fundación Adecco](/catedra)** y gracias a la colaboración desinteresada de [Zaragoza Activa](http://www.zaragoza.es/ciudad/sectores/activa/) y la comunidad de OpenStreetMap ([ver agradecimientos](#agradecimientos)).
 
 **Tabla de contenidos**
 
