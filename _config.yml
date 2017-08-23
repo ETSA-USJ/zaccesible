@@ -29,8 +29,8 @@ plugins:
 sidebar_home_link:  true
 #github:
 #  repo:             https://github.com/fongandrew/hydeout
-
-disqus.shortname: zaccesible
+disqus:
+  shortname: zaccesible
 google_analytics: UA-76289367-1
 
 # Custom variables:
