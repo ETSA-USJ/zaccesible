@@ -3,6 +3,7 @@ layout: page
 title: Sobre el proyecto
 permalink: /about/
 published: true
+sidebar_link: true
 ---
 
 **Zaragoza Accesible** es un proyecto de mapeado colaborativo de

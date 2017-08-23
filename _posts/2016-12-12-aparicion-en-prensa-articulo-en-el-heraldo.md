@@ -6,6 +6,7 @@ tags:
   - resultados
   - aparición en medios
 comments: true
+category: blog
 ---
 
 El pasado día 5 de diciembre el [Heraldo de Aragón](http://heraldo.es/) se hizo eco de las actividades del proyecto **[Zaragoza Accesible](http://zaccesible.usj.es/about/)** realizadas junto al grupo [Mapeado Colaborativo de Zaragoza Activa](http://zaccesible.usj.es/blog/2016/04/07/mapeado-colaborativo-zac.html) y también sobre la segunda mapping party realizada con [Discapacitados Sin Fronteras Aragón](https://discapacitadossinfronteras.com/) con motivo de la celebración del día internacional de la persona con discapacidad.

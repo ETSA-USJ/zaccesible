@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
-/*body {
+body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
@@ -23,7 +23,7 @@ dl, dd, ol, ul, figure {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
-}*/
+}
 
 
 
@@ -76,11 +76,7 @@ li {
     }
 }
 
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
-}
+
 
 /**
  * Headings
@@ -99,7 +95,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 5%);
+        color: darken($brand-color, 15%);
     }
 
     &:hover {
@@ -207,12 +203,4 @@ pre {
             fill: $grey-color;
         }
     }
-}
-
-/**
- * HR
- */
-hr {
-    border: none;
-    border-bottom: 1px solid $grey-color-dark;
 }

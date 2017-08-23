@@ -3,6 +3,7 @@ layout: page
 title: Mapa
 permalink: /mapa/
 published: true
+sidebar_link: true
 ---
 
 Estamos trabajando en la confección de un mapa colaborativo sobre accesibilidad y discapacidad en Zaragoza. Puedes leer acerca de las particularidades en [este enlace](/about#acerca-del-mapa), o si lo prefieres,  mientras tanto puedes ver estos mapas provisionales:

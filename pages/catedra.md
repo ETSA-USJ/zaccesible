@@ -3,6 +3,7 @@ layout: page
 title: Cátedra Bantierra-Fundación Adecco
 permalink: /catedra/
 published: true
+sidebar_link: false
 ---
 La Cátedra Bantierra-Fundación Adecco de la [Escuela Técnica de Arquitectura](http://etsa.usj.es) de la [Universidad San Jorge](http://usj.es) fue, durante los cursos 2010-11 a 2015-16, una unidad de investigación-acción formada por profesores e investigadores, alumnos y egresados de la ETSA-USJ con el objetivo de trabajar e investigar sobre aspectos relativos a la integración de un colectivo desfavorecido como es el de los discapacitados, y que actualmente cuenta ya con cinco ediciones.
 

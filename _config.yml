@@ -1,29 +1,45 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
-# Site settings
-title: Zaragoza Accesible
-email: ccamara@usj.es
-description: > # this means to ignore newlines until "baseurl:"
+# Setup
+title:            Zaragoza Accesible
+tagline:          'A Jekyll theme'
+description:      > # this means to ignore newlines until "baseurl:"
   <b><a href="/about">Zaragoza Accesible</a></b> es un proyecto de mapeado colaborativo de
-  aspectos relacionados con la discapacidad y la movilidad desarrollado desde el grupo de investigación <i>Arquitecturas OpenSource</i> de la 
+  aspectos relacionados con la discapacidad y la movilidad desarrollado desde el grupo de investigación <i>Arquitecturas OpenSource</i> de la
   <a href="http://etsa.usj.es">Escuela de Arquitectura y Tecnología</a> de la
   <a href="http://usj.es">Universidad San Jorge</a>
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://zaccesible.usj.es" # the base hostname & protocol for your site
+url:              https://zaccesible.usj.es
+baseurl:          # the optional subpath of your site, e.g. "/blog"
+
+#author:
+  #name:           'Andrew Fong'
+  #url:            https://twitter.com/fongandrewc
+
+paginate:         5
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Custom vars
+#version:            3.4.1
+sidebar_home_link:  true
+#github:
+#  repo:             https://github.com/fongandrew/hydeout
+
+disqus.shortname: zaccesible
+google_analytics: UA-76289367-1
+
+# Custom variables:
 twitter_username: etsa_usj
 github_username:  etsa-usj
 
-# Build settings
-markdown: kramdown
-
-# Custom variables:
 kramdown:
   auto_ids: true # Auto-generate ID's for headings
+
 authors: # Multiple authors: https://gist.github.com/ravasthi/1834570
   ccamara:
     name: Carlos Cámara
